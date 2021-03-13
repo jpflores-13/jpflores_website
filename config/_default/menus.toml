@@ -4,8 +4,8 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Demo"
-  url = "#hero"
+  name = "From where does it STEM?"
+  url = "https://anchor.fm/fromwheredoesitstem"
   weight = 10
 
 [[main]]
