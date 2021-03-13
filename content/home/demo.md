@@ -10,15 +10,15 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 15
+weight: 30
 
-title: Demos
-subtitle:
+title: From where does it STEM?
+subtitle: Empowering the next generation of diverse scientists!
 
 design:
   columns: "1"
   background:
-    image: headers/bubbles-wide.jpg
+    image: headers/FromWhereDoesItStemorange copy.jpg
     image_darken: 0.6
     image_parallax: true
     image_position: center
