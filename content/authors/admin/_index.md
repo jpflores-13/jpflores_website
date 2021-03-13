@@ -19,21 +19,18 @@ organizations:
   url: https://bbsp.unc.edu/
 role: PhD student
 social:
-- icon: envelope
-  icon_pack: fas
-  link: /#contact
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/jpflores_31
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/jpflores-13
-- icon: linkedin
+- icon: twitter
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://twitter.com/jpflores_31
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/jpflores_31/?hl=en
+- icon: envelope
+  icon_pack: fas
+  link: /#contact
 superuser: true
 title: JP Flores
 ---
