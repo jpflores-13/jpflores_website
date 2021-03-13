@@ -1,6 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include biochemistry, bioinformatics, and computational biology.
 education:
   courses:
   - course: UNC BBSP
