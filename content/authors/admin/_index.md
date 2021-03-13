@@ -12,13 +12,13 @@ education:
 email: "jpflores013@gmail.com"
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Biochemistry/Biophysics
+- Bioinformatics & Computational Biology 
+- Diversity, Equity, Inclusion & Social Justice
 organizations:
-- name: Occidental College
-  url: https://www.stanford.edu/
-role: Undergraduate Student
+- name: University of North Carolina, Chapel Hill
+  url: https://bbsp.unc.edu/
+role: PhD student
 social:
 - icon: envelope
   icon_pack: fas
@@ -31,7 +31,7 @@ social:
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/jpflores-13
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
@@ -39,11 +39,9 @@ superuser: true
 title: JP Flores
 ---
 
-P Flores (he/him) is a first-generation, Filipino college student from Santa Clarita, CA. After graduating from Occidental College in May 2021 with a BA in cellular & molecular biology, he will be attending the University of North Carolina, Chapel Hill to pursue his PhD in the biomedical sciences. He is the creator and host of the podcast From where does it STEM?, and at Occidental, he is a member of the varsity baseball team, a member of the justice, equity, diversity, and inclusion committee for the athletics department, a tour guide, Student Athlete Advisory Committee (SAAC) co-president, oxSEA Ocean Conservation & Sustainability co-President, member of the Diversity & Equity Board (DEB), leading organizer of the Students for Equity and Advocacy in STEM [(SEAS)](http://oxyseas.rbind.io/), and does research on the venom of fish-hunting cone snails with Dr. Joseph Schulz in the biology department. 
+JP Flores (he/him) is a first-generation, Filipino college student from Santa Clarita, CA. After graduating from Occidental College in May 2021 with a BA in cellular & molecular biology, he will be attending the University of North Carolina, Chapel Hill to pursue his PhD in the biomedical sciences. He is the creator and host of the podcast From where does it STEM?, and at Occidental, he is a member of the varsity baseball team, a member of the justice, equity, diversity, and inclusion committee for the athletics department, a tour guide, Student Athlete Advisory Committee (SAAC) co-president, oxSEA Ocean Conservation & Sustainability co-President, member of the Diversity & Equity Board (DEB), leading organizer of the Students for Equity and Advocacy in STEM [(SEAS)](http://oxyseas.rbind.io/), and does research on the venom of fish-hunting cone snails with Dr. Joseph Schulz in the biology department. 
 
 
-Outside of Oxy, he is part of the Data Science team at the Sorenson Impact Center of the University of Utah’s School of Business as well as the co-manager of the center’s Student Coalition housed under the MAPS project. He is a member of the Filipino Scientists in America mentorship program and a member of the Fragile Nucleosome group where he is mentored by Dr. Joseph Rodríguez of the NIEHS. Lastly, he is a coach for three different and local youth baseball teams in Pasadena, La Crescenta, and Santa Clarita. He will continue his coaching career at the USA Baseball Complex in Cary, NC.
+Outside of Oxy, he is part of the Data Science team at the Sorenson Impact Center of the University of Utah’s School of Business as well as the co-manager of the center’s Student Coalition housed under the MAPS project. He is a member of the Filipino Scientists in America mentorship program and a member of the Fragile Nucleosome group where he is mentored by Dr. Joseph Rodríguez of the NIEHS. Lastly, he is a coach for three different and local youth baseball teams in Pasadena, La Crescenta, and Santa Clarita. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "JP Flores Master Resume R.pdf" "newtab" >}}resumé{{< /staticref >}}.
