@@ -40,4 +40,4 @@ JP Flores (he/him) is a first-generation, Filipino college student from Santa Cl
 
 Outside of Oxy, he is part of the Data Science team at the Sorenson Impact Center of the University of Utah’s School of Business as well as the co-manager of the center’s Student Coalition housed under the MAPS project. He is a member of the Filipino Scientists in America mentorship program and a member of the Fragile Nucleosome group where he is mentored by Dr. Joseph Rodríguez of the NIEHS. Lastly, he is a coach for three different and local youth baseball teams in Pasadena, La Crescenta, and Santa Clarita. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "JP Flores Master Resume R.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
