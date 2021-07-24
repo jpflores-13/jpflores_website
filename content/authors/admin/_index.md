@@ -11,7 +11,7 @@ education:
 email: "jpflores013@gmail.com"
 highlight_name: false
 interests:
-- Biochemistry/Biophysics
+- Genetics & Molecular Biology
 - Bioinformatics & Computational Biology 
 - Diversity, Equity, Inclusion & Social Justice
 organizations:
