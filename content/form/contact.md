@@ -11,7 +11,7 @@ submit_button_label: Send Message
 show_social_links: true # specify social accounts in site config
 show_poweredby_formspree: true
 # From the Integration tab in Formspree where it says Your form's endpoint is:
-# https://formspree.io/f/abcdefgh The id will be "abcdefgh"" 
+# https://formspree.io/f/mgejjvdg The id will be "mgejjvdg" <-- real
 formspree_form_id: mgejjvdg
 ---
 ** Contact page don't contain a body, just the front matter above.
