@@ -2,7 +2,7 @@ baseURL: /
 theme: hugo-apero
 languageCode: en
 title: home
-author: Alison Hill
+author: JP Flores
 copyright: ''
 googleAnalytics: ''
 disqusShortname: ''
@@ -69,12 +69,23 @@ params:
   socialInFooter: yes
   socialInHeader: no
   textFontFamily: sans-serif
-  theme: sky
-  twitter: apreshill
+    # use a built-in color theme
+  # one of: forest / grayscale / peach / plum /
+  #         poppy / sky / violet / water 
+  theme: grayscale
+  
+    # or, leave theme empty & make your own palette
+  # see docs at https://hugo-apero.netlify.app/blog/color-themes/
+  # the custom scss file must be in the assets/ folder
+  # add the filename name here, without extension
+  # to use hex colors instead of named tachyons colors, include "hex" in filename
+  custom_theme: "custom" 
+  
+  twitter: jpflores_31
   utterances:
     issue_term: pathname
     label: 'comments :crystal_ball:'
-    repo_name: apreshill/apero
+    repo_name: jpflores-13/jpflores_website
     theme: boxy-light
     use_utterances: yes
 taxonomies:
@@ -108,17 +119,17 @@ menu:
       title: project portfolio
       url: /project/
       weight: 3
-    - name: elements
-      title: elements
-      url: /elements/
-      weight: 4
+#    - name: elements
+#      title: elements
+#     url: /elements/
+#      weight: 4
     - name: cv/resume
       title: cv/resume
       url: /collection/
       weight: 5
     - name: contact
       title: contact
-      url: /form/
+      url: /contact/
       weight: 6
 privacy:
   disqus:
