@@ -8,9 +8,9 @@ audio_link_label: "" # leave blank to exclude
 link_list_label: "Links" # bookmarks, elsewhere, etc.
 link_list:
  -  name: CV
-    url: 
+    url: jpflores.github.io/cv/
  -  name: Resume
-    url: 
+    url: jpflores.github.io/cv/resume.html
 ---
 
 ** index doesn't contain a body, just front matter above.

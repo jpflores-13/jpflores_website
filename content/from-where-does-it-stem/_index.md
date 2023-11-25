@@ -3,14 +3,14 @@
 #description: |
 #  This is a fully featured blog that supports categories, 
 #  tags, series, and pagination.
-author: "The R Markdown Team @RStudio"
-show_post_thumbnail: true
-thumbnail_left: false # for list-sidebar only
+# author: "The R Markdown Team @RStudio"
+ show_post_thumbnail: true
+# thumbnail_left: false # for list-sidebar only
 # show_author_byline: true
 # show_post_date: true
-show_button_links: false
+# show_button_links: false
 # for listing page layout
-layout: list-sidebar # list, list-sidebar, list-grid
+ layout: list-sidebar # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
@@ -21,14 +21,14 @@ sidebar:
     \
       Studying STEM can be daunting, difficult, and inaccessible- especially to students in marginalized, underrepresented communities Prominent scientists seem to have something "innate"" which discourages students from pursuing STEM. However, there is more than meets the eye. In this podcast, I set out to capture stories of resilience, scientific journeys, and inspiration that have built and shaped many diverse scientists. We want to get down to the roots and ask the real question... from where does it STEM?
 
-  author: "JP Flores"
+# author: "JP Flores"
   text_link_label: listen now on your favorite podcast platforms!
   text_link_url: https://podcasters.spotify.com/pod/show/fromwheredoesitstem
 
-  categories_link: true
-  series_link: true
-  tags_link: true
-  show_sidebar_adunit: true # show ad container
+#  categories_link: true
+#  series_link: true
+#  tags_link: true
+#  show_sidebar_adunit: true # show ad container
 
 # set up common front matter for all pages inside blog/
 cascade:

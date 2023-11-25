@@ -38,9 +38,7 @@ params:
   headingFontFamily: sans-serif
   #logo: /img/blogophonic-mark-dark.png
   mainSections:
-    - podcast
-    - project
-    - talk
+    - from where does it stem?
   math:
     renderer: katex
   navallcaps: yes
