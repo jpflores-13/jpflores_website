@@ -38,7 +38,7 @@ params:
   headingFontFamily: sans-serif
   #logo: /img/blogophonic-mark-dark.png
   mainSections:
-    - from where does it stem?
+    - blog
   math:
     renderer: katex
   navallcaps: yes
@@ -63,7 +63,7 @@ params:
       url: http://orcid.org/0000-0002-8082-1890
     - icon: spotify
       icon_pack: fab
-      url: /blog/
+      url: /from-where-does-it-stem/
   socialInFooter: yes
   socialInHeader: no
   textFontFamily: sans-serif
@@ -110,7 +110,7 @@ menu:
       url: /about/
       weight: 1
     - name: from where does it stem?
-      title: from where does it stem?
+      title: blog
       url: /from-where-does-it-stem/
       weight: 2
 #    - name: projects
