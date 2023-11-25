@@ -111,14 +111,14 @@ menu:
       title: About Blogophonic
       url: /about/
       weight: 1
-    - name: podcast
-      title: podcast
+    - name: from where does it stem?
+      title: from where does it stem?
       url: /blog/
       weight: 2
-    - name: projects
-      title: project portfolio
-      url: /project/
-      weight: 3
+#    - name: projects
+#      title: project portfolio
+#      url: /project/
+#      weight: 3
 #    - name: elements
 #      title: elements
 #     url: /elements/
