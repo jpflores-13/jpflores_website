@@ -1,8 +1,8 @@
 ---
-title: from where does it stem?
-description: |
-  This is a fully featured blog that supports categories, 
-  tags, series, and pagination.
+#title: from where does it stem?
+#description: |
+#  This is a fully featured blog that supports categories, 
+#  tags, series, and pagination.
 author: "The R Markdown Team @RStudio"
 show_post_thumbnail: true
 thumbnail_left: false # for list-sidebar only
