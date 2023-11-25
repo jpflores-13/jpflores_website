@@ -6,8 +6,8 @@ description: |
 author: "The R Markdown Team @RStudio"
 show_post_thumbnail: true
 thumbnail_left: true # for list-sidebar only
-show_author_byline: true
-show_post_date: true
+# show_author_byline: true
+# show_post_date: true
 show_button_links: false
 # for listing page layout
 layout: list-sidebar # list, list-sidebar, list-grid
@@ -18,7 +18,7 @@ sidebar:
   description: |
     storytelling for the next generation of scientists.
 
-  author: "JP Flores"
+#  author: "JP Flores"
   text_link_label: Subscribe via RSS
   text_link_url: /index.xml
   categories_link: true
@@ -28,9 +28,9 @@ sidebar:
 
 # set up common front matter for all pages inside blog/
 cascade:
-  author: "JP Flores"
-  show_author_byline: true
-  show_post_date: true
+ # author: "JP Flores"
+ # show_author_byline: true
+ # show_post_date: true
   show_comments: true # see site config to choose Disqus or Utterances
   # for single-sidebar layout
   sidebar:
