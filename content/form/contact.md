@@ -1,6 +1,6 @@
 ---
-title: Contact
-name: Contact Us Form
+title: Contact me!
+name: contact
 description: "Get in touch, I'd love to hear from you!"
 date: 2019-02-25T13:38:41-06:00
 draft: false
