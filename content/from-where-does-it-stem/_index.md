@@ -1,7 +1,7 @@
 ---
  title: from where does it STEM?
  description: |
-  storytelling for the next generation.
+  storytelling for the next generation of scientists.
 # author: "The R Markdown Team @RStudio"
  show_post_thumbnail: true
  thumbnail_left: false # for list-sidebar only
