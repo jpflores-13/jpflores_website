@@ -1,5 +1,5 @@
 ---
-title: A Blog That Works
+title: from where does it stem?
 description: |
   This is a fully featured blog that supports categories, 
   tags, series, and pagination.
@@ -39,7 +39,7 @@ cascade:
   # for single-sidebar layout
   sidebar:
     text_link_label: View recent posts
-    text_link_url: /from-where-does-it-stem-?/
+    text_link_url: /from-where-does-it-stem/
     show_sidebar_adunit: false # show ad container
 ---
 

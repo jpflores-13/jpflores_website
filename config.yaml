@@ -113,7 +113,7 @@ menu:
       weight: 1
     - name: from where does it stem?
       title: from where does it stem?
-      url: /from-where-does-it-stem-?/
+      url: /from-where-does-it-stem/
       weight: 2
 #    - name: projects
 #      title: project portfolio
