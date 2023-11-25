@@ -17,17 +17,15 @@ layout: list-sidebar # list, list-sidebar
 cascade:
   layout: single-series 
   sidebar:
-    title: "Create a Collection"
-    author: Alison Hill
+    title: "Looking for my CV/resume?"
+#    author: Alison Hill
     description: |
-      Sometimes you want a souped-up series- a bundle of related pages 
-      meant to be read in sequence. This section is like a blog series, 
-      minus the blog.
-    show_author_byline: true
-    show_post_date: true
-    text_link_label: ""
-    text_link_url: ""
-    show_sidebar_adunit: true # show ad container, first page only
+      you've come to the right place!
+#    show_author_byline: true
+#    show_post_date: true
+#    text_link_label: ""
+#    text_link_url: ""
+#    show_sidebar_adunit: true # show ad container, first page only
     text_series_label: "Outline" 
     text_contents_label: "On this page" 
 ---
