@@ -3,10 +3,11 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hi, my name is Hugo Apéro. Nice to meet you.
+  about me
 ---
 
 <!-- this is a subheadline -->
-I'm a Hugo theme you'll want to hang out with. :fr: 
-
-The page you are reading is based on a markdown file- look in `content/about/` to edit. There, look inside the `header`, `main`, and `sidebar` folders to get started building your own "about" page.
+<blockquote class="ml0 pl3 bl bw2 b--black-20">
+    <p class="lh-copy measure">If you are free, you need to free somebody else. If you have some power, then your job is to empower somebody else.</p>
+      <cite class="f6 i">―Toni Morrison</cite>
+</blockquote>

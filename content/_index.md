@@ -1,10 +1,10 @@
 ---
-title: "JP Flores"
-subtitle: "A Hugo theme you'll want to hang out with"
-description: "Sit down, relax, and get to know Hugo Apéro. Built on top of Blogophonic, we wanted to create a polished Hugo theme with the right features for a true personal website. We set out to create a theme that is a pleasure to learn, and one that helps others get to know you better. It is more than a blog, with flexible custom layouts that help you introduce yourself online."
+title: "jp flores"
+subtitle: "phd candidate in bioinformatics & computational biology at unc chapel hill"
+description: ""
 images:
   - img/revoir.jpg
-image_left: true
+image_left: false
 text_align_left: false
 show_social_links: true # specify social accounts in site config
 show_action_link: true

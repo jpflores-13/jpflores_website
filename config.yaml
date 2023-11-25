@@ -50,19 +50,16 @@ params:
   social:
     - icon: github
       icon_pack: fab
-      url: https://github.com/apreshill/apero
+      url: https://github.com/jpflores-13
     - icon: facebook-square
       icon_pack: fab
-      url: https://www.facebook.com/hashtag/ap%C3%A9ro
+      url: https://www.facebook.com/jp.flores.14/
     - icon: instagram
       icon_pack: fab
-      url: https://www.instagram.com/explore/tags/apero/
+      url: https://www.instagram.com/jpflores_31/
     - icon: twitter
       icon_pack: fab
-      url: https://twitter.com/hashtag/apéro
-    - icon: impactstory
-      icon_pack: ai
-      url: https://impactstory.org/u/0000-0002-8082-1890
+      url: https://twitter.com/jpflores_31
     - icon: orcid
       icon_pack: ai
       url: http://orcid.org/0000-0002-8082-1890
