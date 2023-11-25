@@ -5,7 +5,7 @@ description: |
   tags, series, and pagination.
 author: "The R Markdown Team @RStudio"
 show_post_thumbnail: true
-thumbnail_left: true # for list-sidebar only
+thumbnail_left: false # for list-sidebar only
 # show_author_byline: true
 # show_post_date: true
 show_button_links: false
@@ -19,12 +19,12 @@ sidebar:
     storytelling for the next generation of scientists.
 
 #  author: "JP Flores"
-  text_link_label: Subscribe via RSS
-  text_link_url: /index.xml
-  categories_link: true
-  series_link: true
-  tags_link: true
-  show_sidebar_adunit: true # show ad container
+  text_link_label: Streaming now on all your favorite podcast platforms!
+  text_link_url: https://podcasters.spotify.com/pod/show/fromwheredoesitstem
+#  categories_link: true
+#  series_link: true
+#  tags_link: true
+#  show_sidebar_adunit: true # show ad container
 
 # set up common front matter for all pages inside blog/
 cascade:

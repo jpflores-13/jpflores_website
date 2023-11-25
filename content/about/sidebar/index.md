@@ -5,14 +5,12 @@ role: "he/him"
 avatar_shape: square # circle, square, rounded, leave blank to exclude
 show_social_links: true # specify social accounts in site config
 audio_link_label: "" # leave blank to exclude
-link_list_label: "" # bookmarks, elsewhere, etc.
-#link_list:
-#- name: Paris
-#  url: https://en.wikipedia.org/wiki/Paris
-#- name: Pastries
-#  url: https://en.wikipedia.org/wiki/Pastry
-#- name: People
-#  url: https://en.wikipedia.org/wiki/People
+link_list_label: "Links" # bookmarks, elsewhere, etc.
+link_list:
+ -  name: CV
+    url: 
+ -  name: Resume
+    url: 
 ---
 
 ** index doesn't contain a body, just front matter above.
