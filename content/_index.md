@@ -3,7 +3,7 @@ title: "jp flores"
 subtitle: "phd candidate in bioinformatics & computational biology at unc chapel hill"
 description: ""
 images:
-  - img/revoir.jpg
+  - img/jpflores.jpg
 image_left: false
 text_align_left: false
 show_social_links: true # specify social accounts in site config

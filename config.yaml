@@ -108,13 +108,17 @@ menu:
       title: project portfolio
       url: /project/
       weight: 3
+    - name: elements
+      title: elements
+      url: /elements/
+      weight: 4
     - name: cv/resume
       title: cv/resume
       url: /collection/
       weight: 5
     - name: contact
       title: contact
-      url: /elements/
+      url: /form/
       weight: 6
 privacy:
   disqus:
