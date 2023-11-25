@@ -1,7 +1,7 @@
 baseURL: /
 theme: hugo-apero
 languageCode: en
-title: Hugo Apéro
+title: home
 author: Alison Hill
 copyright: ''
 googleAnalytics: ''
@@ -34,11 +34,11 @@ params:
   customheadingFontFamily: Fraunces
   customtextFontFamily: Commissioner
   description: A modern, beautiful, and easily configurable blog theme for Hugo.
-  favicon: /img/favicon.ico
+  #favicon: /img/favicon.ico
   headingFontFamily: sans-serif
-  logo: /img/blogophonic-mark-dark.png
+  #logo: /img/blogophonic-mark-dark.png
   mainSections:
-    - blog
+    - podcast
     - project
     - talk
   math:
@@ -100,24 +100,20 @@ menu:
       title: About Blogophonic
       url: /about/
       weight: 1
-    - name: Blog
-      title: Blog
+    - name: podcast
+      title: podcast
       url: /blog/
       weight: 2
-    - name: Projects
-      title: Project Portfolio
+    - name: projects
+      title: project portfolio
       url: /project/
       weight: 3
-    - name: Talks
-      title: Talks
-      url: /talk/
-      weight: 4
-    - name: A collection
-      title: A collection
+    - name: cv/resume
+      title: cv/resume
       url: /collection/
       weight: 5
-    - name: Elements
-      title: Element Page
+    - name: contact
+      title: contact
       url: /elements/
       weight: 6
 privacy:
