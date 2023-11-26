@@ -8,7 +8,7 @@ audio_link_label: "" # leave blank to exclude
 link_list_label: "Links" # bookmarks, elsewhere, etc.
 link_list:
  -  name: CV
-    url: https://jpflores-13.github.io/cv/
+    url: https://jpflores-13.github.io/cv/jpflores-cv.html
  -  name: Resume
     url: https://jpflores-13.github.io/cv/jpflores-resume.html
 ---
