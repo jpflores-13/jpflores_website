@@ -15,6 +15,10 @@ intro: |
   🐯 There, I played NCAA DIII baseball and majored in Cellular & Molecular Biology with a minor in Public Health. I also did research on the venom of fish-hunting cone snails! 
   
   ✊🏽 Although science is what I want to do for the rest of my career, I am extremely passionate about diversity, equity, and inclusion (DEI) and empowering the next generation of scientists.
+  
+  🎶 Outside of lab, I am a HUGE fan of music. Here's what I've been listening to:
+  
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1246212565&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/1246212565?si=e4b417f50fbd48ff)
 
 show_outro: true
 
