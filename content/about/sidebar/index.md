@@ -10,7 +10,7 @@ link_list:
  -  name: CV
     url: https://jpflores-13.github.io/cv/
  -  name: Resume
-    url: https://jpflores-13.github.io/cv/resume.html
+    url: https://jpflores-13.github.io/cv/jpflores-resume.html
 ---
 
 ** index doesn't contain a body, just front matter above.
