@@ -19,9 +19,9 @@ sidebar:
 #  author: "JP Flores"
   text_link_label: listen now on your favorite podcast platforms!
   text_link_url: https://podcasters.spotify.com/pod/show/fromwheredoesitstem
-#  categories_link: false
-#  series_link: false
-#  tags_link: false
+  categories_link: true
+  series_link: true
+  tags_link: true
 #  show_sidebar_adunit: true # show ad container
 
 # set up common front matter for all pages inside blog/
