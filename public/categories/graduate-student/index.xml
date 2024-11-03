@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>graduate-student on home</title>
+    <link>/categories/graduate-student/</link>
+    <description>Recent content in graduate-student on home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 14 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/categories/graduate-student/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Navigating a Physics PhD as a Coptic Student: George Iskander</title>
+      <link>/blog/episode14/</link>
+      <pubDate>Tue, 14 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/blog/episode14/</guid>
+      <description>Awesome chatting with STEM Twitter celebrity George Iskander, a Physics PhD student at the University of Chicago! I also want to announce that I’ll be bringing in co-hosts to bring in unique perspectives and questions! First one is the wonderful SaraJoy Salib of Occidental College! Enjoy! Special shout-out to Ethan Lin, a Valencia High School (Santa Clarita, CA) graduate and current undergraduate at the Rochester Institute of Technology, for producing the music used in this episode!</description>
+    </item>
+    <item>
+      <title>Bridging Social Factors &amp; Context in Infectious Disease Modeling: Tiggy Menkir</title>
+      <link>/blog/episode12/</link>
+      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/blog/episode12/</guid>
+      <description>Tigist (Tiggy) Menkir is a PhD student working with Dr. Caroline Buckee at the Center for Communicable Disease Dynamics housed within the Harvard T.H. Chan School of Public Health. She did her undergraduate training at Princeton University where she received her BA in Ecology and Evolutionary Biology with minors in Global Health and Health Policy and French Language in Culture. She studies infectious disease epidemiology and utilizes machine learning-based methods, spatial statistics, and traditional dynamic models for infectious disease surveillance, with a focus on data-limited settings and marginalized populations.</description>
+    </item>
+    <item>
+      <title>Science is for the Community: Justin Stewart</title>
+      <link>/blog/episode6/</link>
+      <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/blog/episode6/</guid>
+      <description>Justin Stewart is a queer, autistic microbiologist who has a burning passion for diversity and inclusion in STEM. Originally from Texas, USA, they made their way over to Amsterdam and is now doing great work on the MiCRop project! Enjoy!</description>
+    </item>
+  </channel>
+</rss>

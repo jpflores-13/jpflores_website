@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>science-education on home</title>
+    <link>/categories/science-education/</link>
+    <description>Recent content in science-education on home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 05 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/categories/science-education/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Diversity in Shark Science: Jasmin Graham</title>
+      <link>/blog/episode4/</link>
+      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/blog/episode4/</guid>
+      <description>In this episode, I was able to interview Jasmin Graham who is a shark scientist studying elasmobranch ecology and evolution. She has a passion for science education and making science more accessible for everyone, especially underrepresented minority students. She is a director of the MarSci-LACE project and one of the CEOs of the Minorities in Shark Science (MISS). Enjoy!</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>international on home</title>
+    <link>/categories/international/</link>
+    <description>Recent content in international on home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 15 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/categories/international/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Preventing Global Pandemics: Dr. Dimie Ogoina</title>
+      <link>/blog/episode27/</link>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/blog/episode27/</guid>
+      <description>In this episode, I interviewed Dr. Dimie Ogoina. Dr. Ogoina is a Nigerian Infectious Disease Physician-Scientist and Professor of Medicine at the Niger Delta University. He is also the chief medical director at its teaching hospital and the President of the Nigerian Infectious Diseases Society. He was named one of the 100 most influential people of 2023 by TIME magazine and was named Nature’s Top 10 in 2022. He sounded the alarm on a new presentation of Mpox (formerly known as monkeypox) and his research became critically important to developing better strategies to prevent and control outbreaks.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>government on home</title>
+    <link>/categories/government/</link>
+    <description>Recent content in government on home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 22 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/categories/government/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Directing the National Science Foundation (NSF) : Dr. Sethuraman Panchanathan</title>
+      <link>/blog/episode44/</link>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/blog/episode44/</guid>
+      <description>In this episode, I interviewed Dr. Sethuraman Panchanathan, the Director of the National Science Foundation (NSF).</description>
+    </item>
+  </channel>
+</rss>

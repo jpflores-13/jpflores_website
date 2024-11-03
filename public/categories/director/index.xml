@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>director on home</title>
+    <link>/categories/director/</link>
+    <description>Recent content in director on home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/categories/director/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Authenticity &amp; Moving the Culture of Science Forward: Dr. Raven Baxter</title>
+      <link>/blog/episode48/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/blog/episode48/</guid>
+      <description>In this episode, I interviewed Dr. Raven Baxter, otherwise known as Raven the Science Maven. She is a prominent scientist, science communicator, and STEM educator. She is also the President of the The Science Haven.</description>
+    </item>
+    <item>
+      <title>Directing the National Science Foundation (NSF) : Dr. Sethuraman Panchanathan</title>
+      <link>/blog/episode44/</link>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/blog/episode44/</guid>
+      <description>In this episode, I interviewed Dr. Sethuraman Panchanathan, the Director of the National Science Foundation (NSF).</description>
+    </item>
+  </channel>
+</rss>

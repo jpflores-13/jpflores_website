@@ -6,88 +6,358 @@
     <description>Recent content in from where does it STEM? on home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Set up your social</title>
-      <link>/blog/social/</link>
-      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/blog/social/</guid>
-      <description>There are five places where you can choose to show social icons. Here is the tl;dr:
-site header (set in config.toml), site footer (set in config.toml), homepage (set in content/_index.md), about page in the sidebar (set in content/about/sidebar/index.md), and contact page (set in content/form/contact.md). Read on to learn how to set up your social icons, and how to show/hide them.
-Configure social Wherever you end up wanting to show your social icons, you&amp;rsquo;ll need to start by setting up the links in your site config.</description>
+      <title>Authenticity &amp; Moving the Culture of Science Forward: Dr. Raven Baxter</title>
+      <link>/blog/episode48/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/blog/episode48/</guid>
+      <description>In this episode, I interviewed Dr. Raven Baxter, otherwise known as Raven the Science Maven. She is a prominent scientist, science communicator, and STEM educator. She is also the President of the The Science Haven.</description>
     </item>
     <item>
-      <title>Style your site colors</title>
-      <link>/blog/color-themes/</link>
-      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/blog/color-themes/</guid>
-      <description>You can totally customize your site&amp;rsquo;s theme colors within minutes of creating a new site. Read on to find out how, and decide which of the three options meets your needs.
-Use a color theme Hugo Apéro includes 8 built-in color themes that work &amp;ldquo;out of the box.&amp;rdquo; This means you can use a color theme to quickly customize the look of your site without needing to write any CSS. You can select the color theme in your config.</description>
+      <title>Bridging Science &amp; Society : Dr. Alondra Nelson</title>
+      <link>/blog/episode47/</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/blog/episode47/</guid>
+      <description>In this episode, I interviewed Dr. Alondra Nelson, the ⁠Harold F. Linder Professor⁠ at the ⁠Institute for Advanced Study⁠ in Princeton, New Jersey.
+Per her website: Dr. Nelson was formerly deputy assistant to President Joe Biden and acting director of ⁠the White House Office of Science and Technology Policy⁠ (OSTP). In this role, she was the first African American and first woman of color to lead US science and technology policy.</description>
     </item>
     <item>
-      <title>Style your site typography</title>
-      <link>/blog/fonts/</link>
-      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/blog/fonts/</guid>
-      <description>As with color themes, you can completely customize your site&amp;rsquo;s fonts within minutes of creating a new site. How you do it depends on how much control and customization you need.
-Embedded fonts Hugo Apéro includes 6 embedded fonts that work &amp;ldquo;out of the box.&amp;rdquo; We selected 3 serif and 3 sans-serif options that we thought looked good with this theme, in our humble opinions. All embedded fonts include real italics so you may emphasize to your heart&amp;rsquo;s content &amp;#x2764;&amp;#xfe0f;!</description>
+      <title>Building Trust in Science Requires Diversity: Dr. Freeman Hrabowski</title>
+      <link>/blog/episode46/</link>
+      <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/blog/episode46/</guid>
+      <description>In this episode, I interviewed Dr. Freeman Hrabowski, the President Emeritus of The University of Maryland, Baltimore County (UMBC).
+Per his website: He has given numerous TED talks and chaired the National Academies’ committee that produced the report, Expanding Underrepresented Minority Participation: America’s Science and Technology Talent at the Crossroads. President Obama named him chair of the President’s Advisory Commission on Educational Excellence for African Americans in 2012. In 1988, he co-founded the Meyerhoff Scholars Program.</description>
     </item>
     <item>
-      <title>An evergreen post</title>
-      <link>/blog/evergreen/</link>
-      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/blog/evergreen/</guid>
-      <description>Rendering mathematical equations Examples from the mathjax demo. But they work with katex as well.
-Rmarkdown In .Rmarkdown documents, you can use either
-$a \ne 0$ to get inline math: \(a \ne 0\). There is no conflict with using dollar symbols regularly, because knitr automatically escapes freestanding dollar symbols.
-And you can use
-$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$ to get a math paragraph:
-$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.</description>
+      <title>Science is a Living, Breathing Process: Dr. Holden Thorp</title>
+      <link>/blog/episode45/</link>
+      <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/blog/episode45/</guid>
+      <description>In this episode, I interviewed Dr. Holden Thorp, the Editor-In-Chief of Science Magazine. Formerly, he was Provost of Washington University in St. Louis and spent three decades at the University of North Carolina at Chapel Hill (UNC), where he was Chancellor, Dean of the College of Arts and Sciences, and a Kenan Professor of Chemistry.</description>
     </item>
     <item>
-      <title>Using panelsets</title>
-      <link>/blog/seedling/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/blog/seedling/</guid>
-      <description>Courtesy of panelset.js by Garrick Aden-Buie, from his xaringanExtra package: https://pkg.garrickadenbuie.com/xaringanExtra/#/panelset
-For example, this panelset:
-Hello! &amp;#x1f44b; hello
-Goodbye &amp;#x1f4a8; goodbye
-Was created by combining this theme&amp;rsquo;s panelset and panel shortcodes:
-{{&amp;lt; panelset class=&amp;#34;greetings&amp;#34; &amp;gt;}} {{&amp;lt; panel name=&amp;#34;Hello! :wave:&amp;#34; &amp;gt;}} hello {{&amp;lt; /panel &amp;gt;}} {{&amp;lt; panel name=&amp;#34;Goodbye :dash:&amp;#34; &amp;gt;}} goodbye {{&amp;lt; /panel &amp;gt;}} {{&amp;lt; /panelset &amp;gt;}} You could also revert to HTML as well. For example, this panelset:
-Question Which came first: the :chicken: or the :egg:?</description>
+      <title>Directing the National Science Foundation (NSF) : Dr. Sethuraman Panchanathan</title>
+      <link>/blog/episode44/</link>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/blog/episode44/</guid>
+      <description>In this episode, I interviewed Dr. Sethuraman Panchanathan, the Director of the National Science Foundation (NSF).</description>
     </item>
     <item>
-      <title>An Rmarkdown post</title>
-      <link>/blog/rmarkdown/</link>
-      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/blog/rmarkdown/</guid>
-      <description> Air quality with(airquality, boxplot(Temp ~ Month)) with(airquality, plot(Ozone ~ Temp)) mlev &amp;lt;- levels(with(airquality, as.factor(Month))) with(airquality, plot(Ozone ~ Temp, pch = as.numeric(mlev), col = mlev)) </description>
+      <title>Empowering Women in STEM: Dr. Marcia McNutt</title>
+      <link>/blog/episode43/</link>
+      <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/blog/episode43/</guid>
+      <description>In this episode, I chatted with Dr. Marcia McNutt. A decorated scientist who was the 15th Director (and 1st woman) of the United States Geological Survey (USGS), the President and CEO of the Monterey Bay Aquarium Research Institute (MBARI), a Professor of Marine Geophysics at Stanford University and UC Santa Cruz, and a Professor of Geophysics at the Massachusetts Institute of Technology (MIT). She was also the science adviser to the United States Secretary of the Interior, and the former Editor-In-Chief of Science Magazine.</description>
     </item>
     <item>
-      <title>Hello R Markdown</title>
-      <link>/blog/2020-12-01-r-rmarkdown/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>/blog/2020-12-01-r-rmarkdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+      <title>Empowering the next generation of Hispanic/Latinx Scientists: Dr. Tina Termini</title>
+      <link>/blog/episode41/</link>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/blog/episode41/</guid>
+      <description>When Doris (formerly UNC PREP Postbac Scholar, Currently University of Michigan PhD student) was applying to graduate school, JP connected her with Dr. Christina Termini, the creator of the List of 100 Inspiring Hispanic/Latinx Scientists. In this conversation, we mentioned expanding that list, and thus the #LatinxAtlas was born!
+Check out the original list of 100 Inspiring Hispanic/Latinx Scientists ⁠here⁠, and check out the #LatinxAtlas, housed by the Fred Hutch Cancer Center ⁠here⁠!</description>
     </item>
     <item>
-      <title>CSS Grid Scaffold</title>
-      <link>/blog/css-grid-scaffold/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/blog/css-grid-scaffold/</guid>
-      <description>“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.” — Chris House, A Complete Guide to CSS Grid Layout 1
-Overview Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips.</description>
+      <title>Helping Underrepresented Students Move Up the Socioeconomic Ladder : Dr. Robert Fernandez</title>
+      <link>/blog/episode42/</link>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/blog/episode42/</guid>
+      <description>In this episode, I chatted with Dr. Robert Fernandez, the Executive Director of Cientifico Latino, and a United States Obama Leaders for the Obama Foundation Leaders USA Program. He is a former PD Soros Fellow and a former undocumented immigrant who once had a dream of becoming a scientist. His dreams have become a reality, and he is now helping historically marginalized students access higher education in the sciences!</description>
     </item>
     <item>
-      <title>Built-in Contact Form</title>
-      <link>/blog/built-in-contact-form/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/blog/built-in-contact-form/</guid>
-      <description>Formspree makes it easy to receive submissions from HTML forms on your static website. Functional Form This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form (/content/forms/contact.md). Of course, the example shown below (your@email.here) must not be used. Please use your actual email address.</description>
+      <title>Getting Everyone to their Destination: Dr. Lyric Jorgenson</title>
+      <link>/blog/episode40/</link>
+      <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>/blog/episode40/</guid>
+      <description>In this episode, I interviewed Dr. Lyric Jorgenson, the Associate Director of Science Policy and the Director of the Office of Science Policy at the National Institutes of Health (NIH).
+Per the ⁠NIH Office of Science Policy website⁠, she provides senior leadership in the development and oversight of cross-cutting biomedical research policies and programs considered to be of high-priority to NIH and the United States Government.
+Prior to this role, she served in numerous roles across the agency, including Deputy Director of the Office of Science Policy, and has led the development of numerous high impact science and policy initiatives such as the Brain Research through Advancing Innovative Neurotechnologies (BRAIN) Initiative and the National Center for Advancing Translational Sciences (NCATS).</description>
+    </item>
+    <item>
+      <title>Giving People Power to Change : Dr. Beronda Montgomery</title>
+      <link>/blog/episode38/</link>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>/blog/episode38/</guid>
+      <description>In this episode, I interviewed Dr. Beronda Montgomery, an amazing mentor, leader, and author of &amp;ldquo;Lessons from Plants&amp;rdquo;. Per her website, she is a writer, researcher, and scholar who pursues a common theme of understanding how individuals perceive, respond to, and are impacted by the environments in which they exist. Her primary laboratory-based research is focused on the responses of photosynthetic organisms (i.e., plants and cyanobacteria) to external light cues. Additionally, she pursues this theme in the context of effective mentoring and leadership of individuals, and the role of innovative leaders in supporting success.</description>
+    </item>
+    <item>
+      <title>Hearing it from the Top: Dr. Neali Lucas</title>
+      <link>/blog/episode37/</link>
+      <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>/blog/episode37/</guid>
+      <description>In this episode, I interviewed Dr. Neali Lucas. She has been at the Food and Drug Administration (FDA) for 14 years, where she is currently the Senior Science Advisor in the Office of the Commissioner, Office of the Chief Scientist. She was the first African-American scientist to graduate from her graduate program at the University of Michigan in 2007, and we had a rich discussion about equity and inclusion in STEM and the importance of hearing about how important these topics are from the top.</description>
+    </item>
+    <item>
+      <title>Impact Through Science Policy: Dr. Adriana Bankston</title>
+      <link>/blog/episode36/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>/blog/episode36/</guid>
+      <description>In this episode, guest co-host Rami Major and I interviewed Dr. Adriana Bankston. Per her website, she is an advocate for scientific research and innovation at the federal level. For close to a decade, Adriana has worked to nurture U.S. competitiveness in science and technology through a number of roles with universities, non-profits and scientific societies. Adriana works at the intersection of scientific research, higher education and STEM workforce development with a focus on science policy to advance our nation forward through evidence-based practices and empower the next generation to get involved.</description>
+    </item>
+    <item>
+      <title>Finding your Science Communication Identity : Dr. Pallav Kosuri</title>
+      <link>/blog/episode35/</link>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/blog/episode35/</guid>
+      <description>In this episode, I interviewed Dr. Pallav Kosuri. Per Pallav&amp;rsquo;s website, he studied physics in college at KTH in Stockholm, Sweden (where he&amp;rsquo;s from). As a PhD student in the lab of Julio Fernandez at Columbia University, he studied the mechanics of protein folding and discovered that we can modulate this process to alter the elasticity of muscles. He then moved to Harvard University as a postdoc in the lab of Xiaowei Zhuang, where he used DNA to invent and build nanosensors that make it possible to see molecular movements.</description>
+    </item>
+    <item>
+      <title>Mentoring the Next Generation of Diverse Scholars : Dr. Mike Summers</title>
+      <link>/blog/episode34/</link>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/blog/episode34/</guid>
+      <description>Dr. Michael Summers is a member of the National Academy of Sciences, and the Robert E. Meyerhoff Chair for Excellence in Research and Mentoring and Distinguished University Professor at UMBC. He is also an Investigator with the Howard Hughes Medical Institute. Research in his laboratory is aimed at understanding how HIV-1 and other retroviruses assemble in infected cells and package their RNA genomes. He was an instrumental figure in the success of the amazing Meyerhoff Scholars Program!</description>
+    </item>
+    <item>
+      <title>Staying Inspired and Empowered in STEM : Dr. Antentor O. Hinton Jr.</title>
+      <link>/blog/episode33/</link>
+      <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/blog/episode33/</guid>
+      <description>In this episode, I interviewed Dr. Antentor Hinton Jr. Per his biosketch on his lab website, he is a tenure-track Assistant Professor in the Department of Molecular Physiology and Biophysics in the Vanderbilt School of Medicine Basic Sciences at Vanderbilt University and a member of the Vanderbilt Diabetes Research and Training Center and the Ernest E. Just Early Career Investigator.
+Dr. Hinton’s laboratory has a strong commitment to diversity. Dr. Hinton has published 8 STEM education papers and 32 diversity, equity, inclusion, mentoring, and career development commentaries.</description>
+    </item>
+    <item>
+      <title>The Frontier of Women&#39;s Healthcare : Dr. Crystal Schiller</title>
+      <link>/blog/episode32/</link>
+      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>/blog/episode32/</guid>
+      <description>In this episode, I interviewed Dr. Crystal Schiller, a clinical psychologist specializing in women’s mental health. She studies how hormones trigger changes in mood over the course of the reproductive life span—during the menstrual cycle, pregnancy, postpartum, and the transition to menopause. She is also passionate about teaching others about the impact of hormones on mood and tools that have been scientifically shown to help.</description>
+    </item>
+    <item>
+      <title>Building Science Community through Social Media: Dr. Ubadah Sabbagh &amp; Dr. Daniel Gonzales</title>
+      <link>/blog/episode31/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>/blog/episode31/</guid>
+      <description>In this episode, I interviewed Dr. Ubadah Sabbagh &amp;amp; Dr. Daniel Gonzales. Ubadah is a Syrian neuroscientist and NIH K00 Fellow at the McGovern Institute for Brain Research at MIT, and Daniel just started a faculty position at Vanderbilt University in the Department of Biomedical Engineering. They met over social media, are freakin&amp;rsquo; HILARIOUS, and I am so glad I got to put them together in a Zoom room!</description>
+    </item>
+    <item>
+      <title>Directing the NHGRI : Dr. Eric Green</title>
+      <link>/blog/episode30/</link>
+      <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>/blog/episode30/</guid>
+      <description>In this episode, I co-hosted Dr. Eric Green, Director of the NHGRI with Parth and Chinmay, the co-hosts of Biocast. He is the third NHGRI director, having been appointed by NIH director Dr. Francis Collins in 2009. In this episode, we talked about mentorship, baseball, and what it&amp;rsquo;s like to head an institute of the NIH.</description>
+    </item>
+    <item>
+      <title>Field Safety in Field Biology: Dr. Murry Burgess</title>
+      <link>/blog/episode28/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/blog/episode28/</guid>
+      <description>In this episode, I interviewed Dr. Murry Burgess. When I interviewed Murry in 2023, she was a PhD candidate at North Carolina State University, and now she is a tenure-track Assistant Professor at Mississippi State University. She is an ornithology and urban ecology researcher, but she is also a huge advocate for field safety in the natural sciences as an aspect of accessibility and inclusion. In 2022, she co-founded a non-profit organization called Field Inclusive, which amplifies and supports marginalized and historically excluded field biologists.</description>
+    </item>
+    <item>
+      <title>Reunion! : A Follow-up with Dr. Karolin Luger and the Hosts of Biocast</title>
+      <link>/blog/episode29/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/blog/episode29/</guid>
+      <description>In this episode, I co-hosted Dr. Karolin Luger with Chinmay and Parth, the co-hosts of a partner podcast with From where does it STEM? called Biocast. Biocast is a biology podcast made to serve as a resource for anyone interested in biology: whether it be about recent breakthroughs in research, common topics, or even just a general interest, they hope to encourage people to explore the world of biology and help them delve deeper into the wonderful science of life itself.</description>
+    </item>
+    <item>
+      <title>Preventing Global Pandemics: Dr. Dimie Ogoina</title>
+      <link>/blog/episode27/</link>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/blog/episode27/</guid>
+      <description>In this episode, I interviewed Dr. Dimie Ogoina. Dr. Ogoina is a Nigerian Infectious Disease Physician-Scientist and Professor of Medicine at the Niger Delta University. He is also the chief medical director at its teaching hospital and the President of the Nigerian Infectious Diseases Society. He was named one of the 100 most influential people of 2023 by TIME magazine and was named Nature’s Top 10 in 2022. He sounded the alarm on a new presentation of Mpox (formerly known as monkeypox) and his research became critically important to developing better strategies to prevent and control outbreaks.</description>
+    </item>
+    <item>
+      <title>When Pigs Fly: Dr. Muhammad Mohiuddin</title>
+      <link>/blog/episode26/</link>
+      <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/blog/episode26/</guid>
+      <description>In this episode, I had a conversation with Dr. Muhammad Mohiuddin. Dr. Mohiuddin and his team transplanted the first gene-edited pig heart into a human. Currently, he is the Director of the Cardiac Xenotransplantation Program at the University of Maryland School of Medicine in Baltimore. He received his MD from Dow Medical College in Pakistan and moved to the United States after completing his surgical training.</description>
+    </item>
+    <item>
+      <title>Incorporating Patient Engagement: Lisa McCorkell</title>
+      <link>/blog/episode25/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/blog/episode25/</guid>
+      <description>In this episode, I had a conversation with Lisa McCorkell, a Long COVID Patient-Researcher and Advocate. She received a Masters in Public Policy from the University of California, Berkeley, and a Bachelor of Arts in Political Science from the University of California, Los Angeles. Currently, she is a co-founder, team lead, and researcher with the Patient-Led Research Collaborative. She regularly presents recommendations and the patient perspective to government agencies and has been awarded the American Academy of Physical Medicine and Rehabilitation Distinguished Public Service Award and was named Nature’s 10 in 2022.</description>
+    </item>
+    <item>
+      <title>From Los Angeles to New Jersey: Dr. Mike Levine </title>
+      <link>/blog/episode24/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/blog/episode24/</guid>
+      <description>Dr. Mike Levine is the Director of the Lewis Sigler Institute for Integrative Genomics at Princeton University. Originally from Southern California, Mike sat down with me and Marielle Bond to talk about his scientific journey and how he ended up in New Jersey (&amp;ldquo;of all places!&amp;rdquo;). He was an absolute joy to talk to, and I was excited to get him on the show because of his passion for training the next generation of scientists and for inspiring fellow Dodger fans (like myself).</description>
+    </item>
+    <item>
+      <title>Science isn&#39;t a One Person Show: Dr. Diana Greene Foster</title>
+      <link>/blog/episode23/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/blog/episode23/</guid>
+      <description>Dr. Diana Greene Foster is a Professor at the University of California, San Francisco (UCSF), and the Advancing New Standards in Reproductive Health (ANSIRH) program. She was just named a 2023 MacArthur Fellow and in 2022, was named by Nature as one of the top 10 scientists shaping science today. She was a leader in the Turnaway Study, a longitudinal prospective study of almost 1,000 women who received or were denied wanted abortions from 30 facilities across the US.</description>
+    </item>
+    <item>
+      <title>Acknowledging the History of Genetics &amp; Genomics: Dr. Christopher Donohue</title>
+      <link>/blog/episode22/</link>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/blog/episode22/</guid>
+      <description>Per the National Human Genome Research Institute, Dr. Christopher Donohue is a historian at the NHGRI at the National Institutes of Health (NIH). He co-manages the History of Genomics Program.The History of Genomics Program is a unique history and science communications effort at the NIH that uses the history and present manifestations of eugenics, scientific racism, ableism, heteronormativity and their complex connections to contemporary genomics and medicine to facilitate meaningful and difficult conversations that promote equity and confront past and present wrongs.</description>
+    </item>
+    <item>
+      <title>Embracing the community ::: Dr. Hadley Wickham</title>
+      <link>/blog/episode20/</link>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/blog/episode20/</guid>
+      <description>Happy #TidyTuesday! Excited to share an awesome conversation with Hadley Wickham (@hadleywickham), Chief Scientist @rstudio! We tried to stay away from #ggplot2 and the #tidyverse and wanted to focus on his journey and life. Enjoy! #RStats</description>
+    </item>
+    <item>
+      <title>STEM, STEAM, Make Dream: Dr. Chris Emdin</title>
+      <link>/blog/episode17/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/blog/episode17/</guid>
+      <description>Christopher Emdin, Ph.D., is the Robert A. Naslund Endowed Chair in Curriculum Theory and Professor of Education at the University of Southern California; where he also serves as Director of youth engagement and community partnerships at the USC Race and Equity Center. He previously served as Director of the Science Education program at Teachers College, Columbia University and alumni fellow at the Hip-hop archive and Hutchins Center at Harvard University. The creator of the #HipHopEd social media movement and Science Genius B.</description>
+    </item>
+    <item>
+      <title>Rejection just means Redirection: Dr. Angeline Dukes</title>
+      <link>/blog/episode19/</link>
+      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/blog/episode19/</guid>
+      <description>Angeline Dukes is a PhD candidate and neuroscientist at the University of California, Irvine. She is a proud alumnus of Fisk University and the Founder and President of Black in Neuro! We had great conversations about being a mentor and overcoming imposter syndrome. This fall, she will also be starting at the University of Minnesota School of Medicine as an Assistant Professor!</description>
+    </item>
+    <item>
+      <title>Words of Wisdom: Dr. Francis Collins</title>
+      <link>/blog/episode18/</link>
+      <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/blog/episode18/</guid>
+      <description>It was an honor and privilege to interview Dr. Francis Collins M.D., Ph.D. He was appointed the 16th Director of the National Institutes of Health (NIH) by President Barack Obama and continued to serve under Presidents Trump and Biden. Dr. Collins is the only Presidentially appointed NIH Director to serve more than one administration.
+Dr. Collins is a physician-geneticist noted for his landmark discoveries of disease genes (cystic fibrosis) and his leadership of the international Human Genome Project which was completed in 2003.</description>
+    </item>
+    <item>
+      <title>Mentorship Matters: Yeraldi Loera</title>
+      <link>/blog/episode16/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/blog/episode16/</guid>
+      <description>Yeraldi Loera graduated from Occidental College as a Biology major in the Fall of 2016. After graduating, she attended California State Polytechnic University in Pomona for a Master’s in Biology. Since receiving her Master’s in 2019, she has started a PhD program in the department of Ecology and Evolutionary Biology at Princeton University in the lab of Dr. Shane Campbell-Staton. She emphasizes her gratitude to do what she loves and is outspoken on connecting with others about their obstacles and journeys.</description>
+    </item>
+    <item>
+      <title>Objectivity vs. Subjectivity in Science: Dr. Sabah Ul-Hasan</title>
+      <link>/blog/episode15/</link>
+      <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/blog/episode15/</guid>
+      <description>On this episode, I got the chance to sit down and chat about social justice in science with Dr. Sabah Ul-Hasan, a bioinformatician and postdoc at The Scripps Research Institute in San Diego under Dr. Andrew Su. They are currently working on the NIH-funded Wikidata biocuration project. Enjoy!</description>
+    </item>
+    <item>
+      <title>Navigating a Physics PhD as a Coptic Student: George Iskander</title>
+      <link>/blog/episode14/</link>
+      <pubDate>Tue, 14 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/blog/episode14/</guid>
+      <description>Awesome chatting with STEM Twitter celebrity George Iskander, a Physics PhD student at the University of Chicago! I also want to announce that I’ll be bringing in co-hosts to bring in unique perspectives and questions! First one is the wonderful SaraJoy Salib of Occidental College! Enjoy! Special shout-out to Ethan Lin, a Valencia High School (Santa Clarita, CA) graduate and current undergraduate at the Rochester Institute of Technology, for producing the music used in this episode!</description>
+    </item>
+    <item>
+      <title>Humanity in Science: Dr. Karolin Luger </title>
+      <link>/blog/episode13/</link>
+      <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/blog/episode13/</guid>
+      <description>Dr. Karolin Luger is a biochemist and structural biologist at the University of Colorado, Boulder. Famously known for solving the structure of the nucleosome via X-ray crystallography, she also believes that one of the most important aspects of her job is training and inspiring the next generation of scientists! Enjoy!</description>
+    </item>
+    <item>
+      <title>Bridging Social Factors &amp; Context in Infectious Disease Modeling: Tiggy Menkir</title>
+      <link>/blog/episode12/</link>
+      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/blog/episode12/</guid>
+      <description>Tigist (Tiggy) Menkir is a PhD student working with Dr. Caroline Buckee at the Center for Communicable Disease Dynamics housed within the Harvard T.H. Chan School of Public Health. She did her undergraduate training at Princeton University where she received her BA in Ecology and Evolutionary Biology with minors in Global Health and Health Policy and French Language in Culture. She studies infectious disease epidemiology and utilizes machine learning-based methods, spatial statistics, and traditional dynamic models for infectious disease surveillance, with a focus on data-limited settings and marginalized populations.</description>
+    </item>
+    <item>
+      <title>Being a Data Analyst in Costa Rica: Cristal Rivera </title>
+      <link>/blog/episode11/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/blog/episode11/</guid>
+      <description>Cristal Rivera is an industrial production engineer who I had the pleasure of meeting through the 2021 RStudio Diversity Scholars program. She is extremely passionate about data science and advocating for opportunities in STEM for people from marginalized backgrounds, especially women! Enjoy!</description>
+    </item>
+    <item>
+      <title>First-Gen Feels: Dr. Charles Scaife</title>
+      <link>/blog/episode10/</link>
+      <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/blog/episode10/</guid>
+      <description>Episode 2 of Season 2 is LIVE! On this week’s episode, I had the opportunity to sit down and chat with Dr. Charles Scaife! Charles is currently an ORISE/ORAU Science, Technology, and Policy Fellow at the US Dept. of Energy and was formerly a NOAA Sea Grant Knauss Fellow! He received his PhD from the University of Virginia and completed his undergrad at UNC Chapel Hill! Enjoy!</description>
+    </item>
+    <item>
+      <title>A Royal Opportunity: Dr. Christopher Jackson </title>
+      <link>/blog/episode9/</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      <guid>/blog/episode9/</guid>
+      <description>Season 2 is LIVE! On this week’s episode, I had a life-changing conversation with Prof. Christopher Jackson who is now a Professor at the University of Manchester in England! He is quite the celebrity in the geology world and is the FIRST Black scientist to give a Royal Institution Christmas Lecture which is a tradition started by Michael Faraday in 1825! Enjoy!</description>
+    </item>
+    <item>
+      <title>Military Brat and Kicking Balls to Cancer Research: Dr. Alexis Zukowski </title>
+      <link>/blog/episode8/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      <guid>/blog/episode8/</guid>
+      <description>&amp;ldquo;&amp;hellip;the road less traveled by, and that has made all the difference.&amp;rdquo; Alexis Zukowski is a postdoc in the lab of Dr.Srinivas Ramachandran lab at the University of Colorado, Denver- Anschutz Medical Campus.</description>
+    </item>
+    <item>
+      <title>Perspectives of an NSF Scientist: Dr. Alias Smith</title>
+      <link>/blog/episode7/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+      <guid>/blog/episode7/</guid>
+      <description>Dr. Alias Smith is an Associate Program Director at the National Science Foundation (NSF). In this episode, we chatted about his journey as both a student AND a mentor. Alias did his undergrad at the University of Missouri and pursued his PhD at UCLA. He made it clear that science isn&amp;rsquo;t just about producing great results, it&amp;rsquo;s about inspiring people to be creative. To be a scientist is to be human.</description>
+    </item>
+    <item>
+      <title>Science is for the Community: Justin Stewart</title>
+      <link>/blog/episode6/</link>
+      <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/blog/episode6/</guid>
+      <description>Justin Stewart is a queer, autistic microbiologist who has a burning passion for diversity and inclusion in STEM. Originally from Texas, USA, they made their way over to Amsterdam and is now doing great work on the MiCRop project! Enjoy!</description>
+    </item>
+    <item>
+      <title> Racism in Medicine &amp; Healthcare: Dr. Callistus Ditah</title>
+      <link>/blog/episode5/</link>
+      <pubDate>Sat, 07 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/blog/episode5/</guid>
+      <description>Dr. Amanda Zellmer of Occidental College put together a phenomenal course called Broader Impacts of Biology. Dafna Erana and I led a discussion in the class about racism in medicine and healthcare and brought on Dr. Callistus Ditah who is a surgical resident at the University of Wisconsin School of Medicine and Public Health. In 2021, he will be the first Black male resident to graduate from the university. In this episode, he talks about his experiences at UW and in America.</description>
+    </item>
+    <item>
+      <title>Diversity in Shark Science: Jasmin Graham</title>
+      <link>/blog/episode4/</link>
+      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/blog/episode4/</guid>
+      <description>In this episode, I was able to interview Jasmin Graham who is a shark scientist studying elasmobranch ecology and evolution. She has a passion for science education and making science more accessible for everyone, especially underrepresented minority students. She is a director of the MarSci-LACE project and one of the CEOs of the Minorities in Shark Science (MISS). Enjoy!</description>
+    </item>
+    <item>
+      <title>Community College to Four-Year: Amanda Finn</title>
+      <link>/blog/episode3/</link>
+      <pubDate>Tue, 29 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/blog/episode3/</guid>
+      <description>Everyone&amp;rsquo;s academic journey is different. Just ask Amanda Finn- an undergraduate at Cal State University, Long Beach. Her passion and love for research is rooted in Kinesiology, and she aspires to be a professor one day. She is a friend from home who I wish I was closer with in high school. I hope y&amp;rsquo;all enjoy her journey as much as I did!</description>
+    </item>
+    <item>
+      <title>How Can Artificial Intelligence (AI) be kind? : Dr. Yim Register</title>
+      <link>/blog/episode39/</link>
+      <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/blog/episode39/</guid>
+      <description>In this episode, I interviewed Dr. Yim Register (they/them). A recently minted DOCTOR. Per their website, they are an NSF GRFP Fellow and got their PhD from the University of Washington (UW) Information School. At UW, they studied the ways that AI algorithms can cause harm, and the best practices for identifying and remedying such algorithmic harms.</description>
+    </item>
+    <item>
+      <title>Mentoring, DEI in STEM, and Chasin&#39; Waterfalls: Dr. Chrystal Starbird</title>
+      <link>/blog/episode21/</link>
+      <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/blog/episode21/</guid>
+      <description>Dr. Chrystal Starbird is an Assistant Professor at the University of North Carolina at Chapel Hill who is passionate about DEI in STEM and mentoring the next generation of diverse scientists. We had an insightful conversation ranging from actionable things institutions can do to better support historically underrepresented students to how she bumps &amp;ldquo;Everyday I&amp;rsquo;m Hustlin&amp;rsquo;&amp;rdquo; by Rick Ross when she&amp;rsquo;s in celebration mode! Enjoy!
+To learn more about her research, check out her site!</description>
+    </item>
+    <item>
+      <title>Mentorship, Community, and Family: Dr. Christopher Barnes &amp; Dr. Naima Sharaf</title>
+      <link>/blog/episode2/</link>
+      <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/blog/episode2/</guid>
+      <description>In this episode, I got to sit down and interview Dr. Christopher Barnes and Dr. Naima Sharaf who are currently postdoctoral researchers at CalTech. They are both structural biologists that just accepted positions at Stanford University. They also have two kids! Community, support, and yes, luck, were a huge part of their success. They believe in the power of mentorship, and I &amp;rsquo;d probably give my left arm if I was ever given the chance to work with them.</description>
+    </item>
+    <item>
+      <title>Mentorship, Community, and Family: Dr. Christopher Barnes &amp; Dr. Naima Sharaf</title>
+      <link>/blog/episode49/</link>
+      <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/blog/episode49/</guid>
+      <description>In this episode, I got to sit down and interview Dr. Christopher Barnes and Dr. Naima Sharaf who are currently postdoctoral researchers at CalTech. They are both structural biologists that just accepted positions at Stanford University. They also have two kids! Community, support, and yes, luck, were a huge part of their success. They believe in the power of mentorship, and I &amp;rsquo;d probably give my left arm if I was ever given the chance to work with them.</description>
+    </item>
+    <item>
+      <title>The Struggles of BIPOC Undergrads: Brian Zou &amp; Evelyn Montenegro</title>
+      <link>/blog/episode1/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/blog/episode1/</guid>
+      <description>This past week, I got to sit down and interview Brian Zou (Macalester College) and Evelyn Montenegro (UC Davis) about their journeys in STEM as underrepresented students. Zou and Montenegro are undergraduates who are undoubtedly going to change their communities with their intelligence, grace, and compassion. I am very grateful I met them, and I hope y&amp;rsquo;all enjoy listening to them as much as I did.</description>
     </item>
   </channel>
 </rss>

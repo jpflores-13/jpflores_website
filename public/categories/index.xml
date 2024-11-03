@@ -6,27 +6,160 @@
     <description>Recent content in Categories on home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Theme Features</title>
-      <link>/categories/theme-features/</link>
-      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/categories/theme-features/</guid>
+      <title>director</title>
+      <link>/categories/director/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/categories/director/</guid>
       <description></description>
     </item>
     <item>
-      <title>evergreen</title>
-      <link>/categories/evergreen/</link>
-      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/categories/evergreen/</guid>
+      <title>president</title>
+      <link>/categories/president/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/categories/president/</guid>
       <description></description>
     </item>
     <item>
-      <title>R</title>
-      <link>/categories/r/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>/categories/r/</guid>
+      <title>science-communication</title>
+      <link>/categories/science-communication/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/categories/science-communication/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>faculty</title>
+      <link>/categories/faculty/</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/categories/faculty/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>science-editing</title>
+      <link>/categories/science-editing/</link>
+      <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/categories/science-editing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>science-writing</title>
+      <link>/categories/science-writing/</link>
+      <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/categories/science-writing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>government</title>
+      <link>/categories/government/</link>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/categories/government/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>government-scientist</title>
+      <link>/categories/government-scientist/</link>
+      <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/categories/government-scientist/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>science-policy</title>
+      <link>/categories/science-policy/</link>
+      <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>/categories/science-policy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>postdoc</title>
+      <link>/categories/postdoc/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>/categories/postdoc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>international</title>
+      <link>/categories/international/</link>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/categories/international/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>medical-doctor</title>
+      <link>/categories/medical-doctor/</link>
+      <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/categories/medical-doctor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>patient</title>
+      <link>/categories/patient/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/categories/patient/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>patient-advocate</title>
+      <link>/categories/patient-advocate/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/categories/patient-advocate/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>historian</title>
+      <link>/categories/historian/</link>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/categories/historian/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>data-science</title>
+      <link>/categories/data-science/</link>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/categories/data-science/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>industry-scientist</title>
+      <link>/categories/industry-scientist/</link>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/categories/industry-scientist/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>graduate-student</title>
+      <link>/categories/graduate-student/</link>
+      <pubDate>Tue, 14 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/categories/graduate-student/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>industry</title>
+      <link>/categories/industry/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/categories/industry/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>science-education</title>
+      <link>/categories/science-education/</link>
+      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/categories/science-education/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>community-college</title>
+      <link>/categories/community-college/</link>
+      <pubDate>Tue, 29 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/categories/community-college/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>undergraduates</title>
+      <link>/categories/undergraduates/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/categories/undergraduates/</guid>
       <description></description>
     </item>
     <item>
@@ -34,6 +167,20 @@
       <link>/categories/package/</link>
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
       <guid>/categories/package/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>R</title>
+      <link>/categories/r/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/categories/r/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Theme Features</title>
+      <link>/categories/theme-features/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/categories/theme-features/</guid>
       <description></description>
     </item>
   </channel>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>medical-doctor on home</title>
+    <link>/categories/medical-doctor/</link>
+    <description>Recent content in medical-doctor on home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 06 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/categories/medical-doctor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>When Pigs Fly: Dr. Muhammad Mohiuddin</title>
+      <link>/blog/episode26/</link>
+      <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/blog/episode26/</guid>
+      <description>In this episode, I had a conversation with Dr. Muhammad Mohiuddin. Dr. Mohiuddin and his team transplanted the first gene-edited pig heart into a human. Currently, he is the Director of the Cardiac Xenotransplantation Program at the University of Maryland School of Medicine in Baltimore. He received his MD from Dow Medical College in Pakistan and moved to the United States after completing his surgical training.</description>
+    </item>
+    <item>
+      <title> Racism in Medicine &amp; Healthcare: Dr. Callistus Ditah</title>
+      <link>/blog/episode5/</link>
+      <pubDate>Sat, 07 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/blog/episode5/</guid>
+      <description>Dr. Amanda Zellmer of Occidental College put together a phenomenal course called Broader Impacts of Biology. Dafna Erana and I led a discussion in the class about racism in medicine and healthcare and brought on Dr. Callistus Ditah who is a surgical resident at the University of Wisconsin School of Medicine and Public Health. In 2021, he will be the first Black male resident to graduate from the university. In this episode, he talks about his experiences at UW and in America.</description>
+    </item>
+  </channel>
+</rss>

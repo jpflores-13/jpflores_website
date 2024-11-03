@@ -2,59 +2,227 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/blog/episode48/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/categories/</loc>
-    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/director/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/blog/</loc>
-    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/social/</loc>
-    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
+    <loc>/categories/president/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/theme-features/</loc>
-    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
+    <loc>/categories/science-communication/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/style/</loc>
-    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+    <loc>/blog/episode47/</loc>
+    <lastmod>2024-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/color-themes/</loc>
-    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+    <loc>/categories/faculty/</loc>
+    <lastmod>2024-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/fonts/</loc>
-    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+    <loc>/blog/episode46/</loc>
+    <lastmod>2024-10-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+    <loc>/blog/episode45/</loc>
+    <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/evergreen/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <loc>/categories/science-editing/</loc>
+    <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/evergreen/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <loc>/categories/science-writing/</loc>
+    <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/seedling/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+    <loc>/blog/episode44/</loc>
+    <lastmod>2024-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/rmarkdown/</loc>
-    <lastmod>2020-12-30T00:00:00+00:00</lastmod>
+    <loc>/categories/government/</loc>
+    <lastmod>2024-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2020-12-01-r-rmarkdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>/blog/episode43/</loc>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/plot/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>/categories/government-scientist/</loc>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/r/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>/blog/episode41/</loc>
+    <lastmod>2024-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/r-markdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>/blog/episode42/</loc>
+    <lastmod>2024-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/regression/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>/blog/episode40/</loc>
+    <lastmod>2024-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/science-policy/</loc>
+    <lastmod>2024-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/episode38/</loc>
+    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/episode37/</loc>
+    <lastmod>2024-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/episode36/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/episode35/</loc>
+    <lastmod>2024-04-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/episode34/</loc>
+    <lastmod>2024-04-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/episode33/</loc>
+    <lastmod>2024-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/episode32/</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/episode31/</loc>
+    <lastmod>2024-03-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/postdoc/</loc>
+    <lastmod>2024-03-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/episode30/</loc>
+    <lastmod>2024-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/episode28/</loc>
+    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/episode29/</loc>
+    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/international/</loc>
+    <lastmod>2024-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/episode27/</loc>
+    <lastmod>2024-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/medical-doctor/</loc>
+    <lastmod>2024-02-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/episode26/</loc>
+    <lastmod>2024-02-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/episode25/</loc>
+    <lastmod>2024-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/patient/</loc>
+    <lastmod>2024-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/patient-advocate/</loc>
+    <lastmod>2024-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/episode24/</loc>
+    <lastmod>2024-01-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/episode23/</loc>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/episode22/</loc>
+    <lastmod>2024-01-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/historian/</loc>
+    <lastmod>2024-01-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/data-science/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/episode20/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/industry-scientist/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/episode17/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/episode19/</loc>
+    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/episode18/</loc>
+    <lastmod>2022-02-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/episode16/</loc>
+    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/episode15/</loc>
+    <lastmod>2021-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/graduate-student/</loc>
+    <lastmod>2021-09-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/episode14/</loc>
+    <lastmod>2021-09-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/episode13/</loc>
+    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/episode12/</loc>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/episode11/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/industry/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/episode10/</loc>
+    <lastmod>2021-06-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/episode9/</loc>
+    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/episode8/</loc>
+    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/episode7/</loc>
+    <lastmod>2021-05-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/episode6/</loc>
+    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/episode5/</loc>
+    <lastmod>2020-11-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/episode4/</loc>
+    <lastmod>2020-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/science-education/</loc>
+    <lastmod>2020-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/episode3/</loc>
+    <lastmod>2020-09-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/community-college/</loc>
+    <lastmod>2020-09-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/episode39/</loc>
+    <lastmod>2020-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/episode21/</loc>
+    <lastmod>2020-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/episode2/</loc>
+    <lastmod>2020-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/episode49/</loc>
+    <lastmod>2020-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/episode1/</loc>
+    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/undergraduates/</loc>
+    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/hugo-site/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
@@ -65,19 +233,22 @@
     <loc>/categories/package/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/categories/r/</loc>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/project/giraffes/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/css-grid-scaffold/</loc>
-    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
+    <loc>/tags/</loc>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/theme-features/</loc>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/project/penguins/</loc>
     <lastmod>2019-07-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/project/bakeoff/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/built-in-contact-form/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/contact/</loc>

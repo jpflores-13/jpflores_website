@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>historian on home</title>
+    <link>/categories/historian/</link>
+    <description>Recent content in historian on home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 09 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/categories/historian/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Acknowledging the History of Genetics &amp; Genomics: Dr. Christopher Donohue</title>
+      <link>/blog/episode22/</link>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/blog/episode22/</guid>
+      <description>Per the National Human Genome Research Institute, Dr. Christopher Donohue is a historian at the NHGRI at the National Institutes of Health (NIH). He co-manages the History of Genomics Program.The History of Genomics Program is a unique history and science communications effort at the NIH that uses the history and present manifestations of eugenics, scientific racism, ableism, heteronormativity and their complex connections to contemporary genomics and medicine to facilitate meaningful and difficult conversations that promote equity and confront past and present wrongs.</description>
+    </item>
+  </channel>
+</rss>
