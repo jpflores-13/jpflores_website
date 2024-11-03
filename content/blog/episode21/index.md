@@ -1,6 +1,6 @@
 ---
 title: "Mentoring, DEI in STEM, and Chasin' Waterfalls: Dr. Chrystal Starbird"
-date: 2020-09-22
+date: 2024-01-02
 author: "JP Flores"
 draft: false
 # layout options: single, single-sidebar
