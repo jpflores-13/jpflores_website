@@ -2,25 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/grad-students/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/science-communication/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/episode51/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/episode50/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/science-editing/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/episode49/</loc>
+    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/president/</loc>
+    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/blog/episode48/</loc>
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/categories/director/</loc>
-    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/</loc>
-    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/president/</loc>
-    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/science-communication/</loc>
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/blog/episode47/</loc>
@@ -33,9 +48,6 @@
     <lastmod>2024-10-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/blog/episode45/</loc>
-    <lastmod>2024-10-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/science-editing/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/science-writing/</loc>
@@ -134,6 +146,9 @@
     <loc>/categories/historian/</loc>
     <lastmod>2024-01-09T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/blog/episode21/</loc>
+    <lastmod>2024-01-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/categories/data-science/</loc>
     <lastmod>2022-09-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -209,13 +224,7 @@
     <loc>/blog/episode39/</loc>
     <lastmod>2020-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/episode21/</loc>
-    <lastmod>2020-09-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/blog/episode2/</loc>
-    <lastmod>2020-09-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/episode49/</loc>
     <lastmod>2020-09-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/blog/episode1/</loc>
