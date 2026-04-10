@@ -8,7 +8,7 @@ show_intro: true
 intro: |
   🌴 My name is JP Flores, PhD (he/him), and I recently completed my PhD in Bioinformatics & Computational Biology at the University of North Carolina at Chapel Hill with a Graduate Certificate in Innovation for the Public Good. 
   
-  🗣️ I am also the Co-Founder of the nonprofit organization, [Science For Good](https://sciforgood.org/)
+  🗣️ I am also a Co-Founder of the nonprofit organization, [Science For Good](https://sciforgood.org/)
   
   🧠 For my next step, I will be an HHMI Gilliam Postdoc at Case Western Reserve University (Cleveland, OH, US) in the lab of [Dr. Marissa Scavuzzo](https://scavuzzolab.org/).
   
