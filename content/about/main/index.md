@@ -6,15 +6,17 @@ use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
-  🌴 My name is JP Flores, PhD (he/him), and recently complted my PhD in Bioinformatics & Computational Biology at the University of North Carolina at Chapel Hill. I will be in Cleveland, OH this fall as an HHMI Gilliam Postdoc at Case Western Reserve University in the lab of Dr. Marissa Scavuzzo.
+  🌴 My name is JP Flores, PhD (he/him), and I recently completed my PhD in Bioinformatics & Computational Biology at the University of North Carolina at Chapel Hill. 
   
-  🔬 Currently, I study the role of 3D chromatin structure in response to environmental stress in the [Phanstiel Lab](http://phanstiel-lab.med.unc.edu/).
+  🧠 For my postdoc, I will be in Cleveland, OH as an HHMI Gilliam Postdoc at Case Western Reserve University in the lab of [Dr. Marissa Scavuzzo](https://scavuzzolab.org/).
   
-  🎓  I am a proud alum of Occidental College, a small liberal arts school in Los Angeles, CA.
+  🔬 During my PhD, I studied the role of 3D chromatin structure in response to environmental stress in the [Phanstiel Lab](http://phanstiel-lab.med.unc.edu/). 
+  
+  🎓 I am a proud alum of Occidental College, a small liberal arts school in Los Angeles, CA.
   
   🐯 There, I played NCAA DIII baseball and majored in Cellular & Molecular Biology with a minor in Public Health. I also did research on the venom of fish-hunting cone snails! 
   
-  ✊🏽 Although science is what I want to do for the rest of my career, I am extremely passionate about diversity, equity, inclusion, and accessibility in STEM (DEIA) and empowering the next generation of scientists.
+  ✊🏽 Although science is what I want to do for the rest of my career, I am extremely passionate about diversity, equity, inclusion, and accessibility in STEM (DEIA), science policy, and empowering the next generation of scientists.
   
   🎶 Outside of lab, I am a HUGE fan of music. Here's what I've been listening to:
   
