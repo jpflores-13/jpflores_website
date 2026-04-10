@@ -46,6 +46,9 @@ params:
   orgName: RStudio
   sharing_image: /img/papillons.jpg
   social:
+    - icon: square-bluesky
+      icon_pack: fab
+      url: https://bsky.app/profile/jpflores.rbind.io
     - icon: github
       icon_pack: fab
       url: https://github.com/jpflores-13
@@ -55,9 +58,9 @@ params:
     - icon: instagram
       icon_pack: fab
       url: https://www.instagram.com/jpflores_31/
-    - icon: bluesky
+    - icon: x
       icon_pack: fab
-      url: https://bsky.app/profile/jpflores.rbind.io
+      url: https://x.com/jpflores_31
     - icon: orcid
       icon_pack: ai
       url: http://orcid.org/0000-0001-5619-8990
