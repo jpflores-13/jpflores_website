@@ -1,6 +1,6 @@
 ---
-title: "jp flores"
-subtitle: "phd candidate in bioinformatics & computational biology at unc chapel hill"
+title: "jp flores, phd"
+subtitle: "incoming hhmi gilliam postdoc at case western reserve university"
 description: ""
 images:
   - img/jpflores.jpg
