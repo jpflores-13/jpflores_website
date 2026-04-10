@@ -6,9 +6,9 @@ use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
-  🌴 My name is JP Flores, PhD (he/him), and I recently completed my PhD in Bioinformatics & Computational Biology at the University of North Carolina at Chapel Hill. 
+  🌴 My name is JP Flores, PhD (he/him), and I recently completed my PhD in Bioinformatics & Computational Biology at the University of North Carolina at Chapel Hill with a Graduate Certificate in Innovation for the Public Good. 
   
-  🧠 For my postdoc, I will be in Cleveland, OH as an HHMI Gilliam Postdoc at Case Western Reserve University in the lab of [Dr. Marissa Scavuzzo](https://scavuzzolab.org/).
+  🧠 For my next step, I will be an HHMI Gilliam Postdoc at Case Western Reserve University (Cleveland, OH, US) in the lab of [Dr. Marissa Scavuzzo](https://scavuzzolab.org/).
   
   🔬 During my PhD, I studied the role of 3D chromatin structure in response to environmental stress in the [Phanstiel Lab](http://phanstiel-lab.med.unc.edu/). 
   
