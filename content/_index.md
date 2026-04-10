@@ -1,6 +1,6 @@
 ---
 title: "jp flores, phd"
-subtitle: ""
+subtitle: "hhmi gilliam postdoc @ case western reserve university"
 description: ""
 images:
   - img/jpflores.jpg

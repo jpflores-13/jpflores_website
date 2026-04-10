@@ -8,11 +8,13 @@ show_intro: true
 intro: |
   🌴 My name is JP Flores, PhD (he/him), and I recently completed my PhD in Bioinformatics & Computational Biology at the University of North Carolina at Chapel Hill with a Graduate Certificate in Innovation for the Public Good. 
   
+  🗣️ I am also the Co-Founder of the nonprofit organization, [Science For Good](https://sciforgood.org/)
+  
   🧠 For my next step, I will be an HHMI Gilliam Postdoc at Case Western Reserve University (Cleveland, OH, US) in the lab of [Dr. Marissa Scavuzzo](https://scavuzzolab.org/).
   
   🔬 During my PhD, I studied the role of 3D chromatin structure in response to environmental stress in the [Phanstiel Lab](http://phanstiel-lab.med.unc.edu/). 
   
-  🎓 I am a proud alum of Occidental College, a small liberal arts school in Los Angeles, CA.
+  🎓 I am a proud alum of College, a small liberal arts school in Los Angeles, CA.
   
   🐯 There, I played NCAA DIII baseball and majored in Cellular & Molecular Biology with a minor in Public Health. I also did research on the venom of fish-hunting cone snails! 
   
