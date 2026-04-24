@@ -1,6 +1,6 @@
 ---
 ## Configure sidebar content in narrow column
-author: "JP Flores"
+author: "JP Flores, PhD"
 role: "he/him"
 avatar_shape: square # circle, square, rounded, leave blank to exclude
 show_social_links: true # specify social accounts in site config

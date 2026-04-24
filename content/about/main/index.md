@@ -6,7 +6,7 @@ use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
-  🌴 My name is JP Flores, PhD (he/him), and I recently completed my PhD in Bioinformatics & Computational Biology at the University of North Carolina at Chapel Hill with a Graduate Certificate in Innovation for the Public Good. 
+  🌴 My name is JP Flores (he/him), and I recently completed my PhD in Bioinformatics & Computational Biology at the University of North Carolina at Chapel Hill with a Graduate Certificate in Innovation for the Public Good. 
   
   🗣️ I am also a Co-Founder of the nonprofit organization, [Science For Good](https://sciforgood.org/)
   
