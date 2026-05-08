@@ -10,7 +10,7 @@ intro: |
   
   🗣️ I am also a Co-Founder of the nonprofit organization, [Science For Good](https://sciforgood.org/)
   
-  🧠 For my next step, I will be an HHMI Gilliam Postdoc at Case Western Reserve University (Cleveland, OH, US) in the lab of [Dr. Marissa Scavuzzo](https://scavuzzolab.org/).
+  🧠 For my next step, I will be in Milan, Italy 🇮🇹  as a Fulbright Scholar working with [Dr. Michele Gabriele](https://www.gabrielelab.com/) at the San Raffaele Telethon Institute for Gene Therapy (SR-Tiget). I will then be moving to Case Western Reserve University (Cleveland, OH, US) as a HHMI Gilliam Postdoc in the lab of [Dr. Marissa Scavuzzo](https://scavuzzolab.org/)
   
   🔬 During my PhD, I studied the role of 3D chromatin structure in response to environmental stress in the [Phanstiel Lab](http://phanstiel-lab.med.unc.edu/). 
   
