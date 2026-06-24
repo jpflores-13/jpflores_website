@@ -1,4 +1,174 @@
 // ─────────────────────────────────────────────────────────────────────────────
+// Film Photos page
+// Masonry grid + lightbox. All classes prefixed fp- to avoid Tachyons collisions.
+// ─────────────────────────────────────────────────────────────────────────────
+
+.fp-page {
+  background: var(--pf-surface-page);
+}
+
+.fp-inner {
+  max-width: var(--pf-content-max);
+  margin: 0 auto;
+  padding: 0 var(--pf-page-pad) var(--pf-space-5);
+}
+
+.fp-crumb {
+  padding-top: var(--pf-space-3);
+
+  a {
+    font-family: var(--pf-font-body);
+    font-size: var(--pf-fs-f7);
+    font-weight: var(--pf-fw-semibold);
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    color: var(--pf-text-muted);
+    text-decoration: none;
+    transition: color var(--pf-dur-fade) var(--pf-ease);
+
+    &:hover { color: var(--pf-text-heading); }
+  }
+}
+
+.fp-intro {
+  padding: var(--pf-space-3) 0 var(--pf-space-2);
+  max-width: 38rem;
+
+  h1 {
+    font-family: var(--pf-font-display);
+    font-size: var(--pf-fs-f1);
+    font-weight: var(--pf-fw-light);
+    color: var(--pf-text-heading);
+    line-height: 1.25;
+    margin: 0 0 var(--pf-space-3);
+  }
+
+  p {
+    font-family: var(--pf-font-body);
+    font-size: var(--pf-fs-f4);
+    font-weight: var(--pf-fw-light);
+    color: var(--pf-text-body);
+    line-height: 1.6;
+    margin: 0;
+
+    em {
+      font-family: var(--pf-font-display);
+      font-style: italic;
+    }
+  }
+}
+
+// ── Masonry grid ──────────────────────────────────────────────────────────────
+.fp-gallery {
+  columns: 3;
+  column-gap: var(--pf-space-3);
+  margin-top: var(--pf-space-5);
+
+  @media (max-width: 900px) { columns: 2; }
+  @media (max-width: 560px) { columns: 1; }
+}
+
+.fp-shot {
+  display: block;
+  width: 100%;
+  margin: 0 0 var(--pf-space-3);
+  break-inside: avoid;
+  border: 1px solid var(--pf-border);
+  background: var(--pf-surface-sunken);
+  cursor: zoom-in;
+  padding: 0;
+  line-height: 0;
+  transition: opacity var(--pf-dur-fade) var(--pf-ease),
+              border-color var(--pf-dur-fade) var(--pf-ease);
+
+  img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  &:hover {
+    opacity: 0.9;
+    border-color: var(--pf-border-strong);
+  }
+}
+
+// ── Lightbox ──────────────────────────────────────────────────────────────────
+.fp-lightbox {
+  position: fixed;
+  inset: 0;
+  z-index: 200;
+  display: none;
+  background: rgba(15, 18, 16, 0.94);
+  align-items: center;
+  justify-content: center;
+  padding: var(--pf-space-4);
+
+  &.open {
+    display: flex;
+  }
+
+  img {
+    max-width: 92vw;
+    max-height: 86vh;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
+  }
+}
+
+.fp-lb-btn {
+  position: absolute;
+  background: none;
+  border: none;
+  color: #f5f1e8;
+  cursor: pointer;
+  font-size: 1.6rem;
+  opacity: 0.8;
+  transition: opacity var(--pf-dur-fade) var(--pf-ease);
+  width: 3rem;
+  height: 3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  &:hover { opacity: 1; }
+}
+
+.fp-lb-close {
+  top: var(--pf-space-3);
+  right: var(--pf-space-3);
+}
+
+.fp-lb-prev {
+  left: var(--pf-space-2);
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.fp-lb-next {
+  right: var(--pf-space-2);
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.fp-lb-count {
+  position: absolute;
+  bottom: var(--pf-space-3);
+  left: 50%;
+  transform: translateX(-50%);
+  color: #f5f1e8;
+  opacity: 0.7;
+  font-family: var(--pf-font-body);
+  font-size: var(--pf-fs-f7);
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  font-weight: var(--pf-fw-semibold);
+}
+
+@media screen and (max-width: 768px) {
+  .fp-inner { padding: 0 var(--pf-space-3) var(--pf-space-4); }
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
 // Projects & Fun page
 // CSS custom properties (design-system tokens) + page-specific component styles.
 // Scoped under .pf-page so nothing leaks to the rest of the Apéro site.

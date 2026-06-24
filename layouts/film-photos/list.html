@@ -1,0 +1,81 @@
+{{ define "main" }}
+<main class="page-main fp-page" role="main">
+  <div class="fp-inner">
+
+    <div class="fp-crumb"><a href="/projects-and-fun/">← Projects &amp; Fun</a></div>
+
+    <section class="fp-intro">
+      <h1>film photos</h1>
+      <p>Frames shot on 35mm — mostly <em>music, low light, and the people in it</em>. One roll at a time.</p>
+    </section>
+
+    <section class="fp-gallery" id="fp-gallery">
+      {{ range $i, $img := resources.Match "film/*" }}
+        {{ $thumb := $img.Fit "800x800 webp" }}
+        {{ $full  := $img.Fit "2400x2400 webp" }}
+        <button class="fp-shot" data-i="{{ $i }}" data-full="{{ $full.RelPermalink }}">
+          <img src="{{ $thumb.RelPermalink }}"
+               width="{{ $thumb.Width }}" height="{{ $thumb.Height }}"
+               alt="Film photograph" loading="lazy">
+        </button>
+      {{ end }}
+    </section>
+
+  </div>
+</main>
+
+<div class="fp-lightbox" id="fp-lightbox" aria-hidden="true">
+  <button class="fp-lb-btn fp-lb-close" id="fp-lb-close" aria-label="Close">
+    <i class="fas fa-xmark"></i>
+  </button>
+  <button class="fp-lb-btn fp-lb-prev" id="fp-lb-prev" aria-label="Previous">
+    <i class="fas fa-chevron-left"></i>
+  </button>
+  <img id="fp-lb-img" src="" alt="Film photograph enlarged">
+  <button class="fp-lb-btn fp-lb-next" id="fp-lb-next" aria-label="Next">
+    <i class="fas fa-chevron-right"></i>
+  </button>
+  <span class="fp-lb-count" id="fp-lb-count"></span>
+</div>
+
+<script>
+(function () {
+  const items = Array.from(document.querySelectorAll('.fp-shot'));
+  const srcs  = items.map(b => b.dataset.full);
+  const lb    = document.getElementById('fp-lightbox');
+  const img   = document.getElementById('fp-lb-img');
+  const count = document.getElementById('fp-lb-count');
+  let cur = 0;
+
+  function show(i) {
+    cur = ((i % srcs.length) + srcs.length) % srcs.length;
+    img.src = srcs[cur];
+    count.textContent = (cur + 1) + ' / ' + srcs.length;
+  }
+  function open(i) {
+    show(i);
+    lb.classList.add('open');
+    lb.setAttribute('aria-hidden', 'false');
+    document.body.style.overflow = 'hidden';
+  }
+  function close() {
+    lb.classList.remove('open');
+    lb.setAttribute('aria-hidden', 'true');
+    document.body.style.overflow = '';
+  }
+
+  items.forEach(b => b.addEventListener('click', () => open(+b.dataset.i)));
+  document.getElementById('fp-lb-close').addEventListener('click', close);
+  document.getElementById('fp-lb-prev').addEventListener('click', e => { e.stopPropagation(); show(cur - 1); });
+  document.getElementById('fp-lb-next').addEventListener('click', e => { e.stopPropagation(); show(cur + 1); });
+  lb.addEventListener('click', e => { if (e.target === lb) close(); });
+
+  document.addEventListener('keydown', e => {
+    if (!lb.classList.contains('open')) return;
+    if (e.key === 'Escape')     close();
+    if (e.key === 'ArrowLeft')  show(cur - 1);
+    if (e.key === 'ArrowRight') show(cur + 1);
+  });
+}());
+</script>
+{{ end }}
