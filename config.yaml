@@ -114,11 +114,11 @@ menu:
       weight: 1
     - name: work
       title: work
-      url: /projects-and-fun/
+      url: /work/
       weight: 2
     - name: 35mm
       title: 35mm
-      url: /film-photos/
+      url: /35mm/
       weight: 3
 #    - name: projects
 #      title: projects
