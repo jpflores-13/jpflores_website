@@ -112,9 +112,9 @@ menu:
       title: about
       url: /about/
       weight: 1
-    - name: from where does it stem?
-      title: blog
-      url: https://fwdis.org
+    - name: projects & fun
+      title: projects & fun
+      url: /projects-and-fun/
       weight: 2
 #    - name: projects
 #      title: projects

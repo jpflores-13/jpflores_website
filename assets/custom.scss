@@ -1,1 +1,301 @@
-// Override this file to add your own SCSS styling.
+// ─────────────────────────────────────────────────────────────────────────────
+// Projects & Fun page
+// CSS custom properties (design-system tokens) + page-specific component styles.
+// Scoped under .pf-page so nothing leaks to the rest of the Apéro site.
+// Token values match the site's "grayscale" Apéro theme exactly.
+// ─────────────────────────────────────────────────────────────────────────────
+
+// Tokens — defined on :root so they're reachable by any child selector.
+// Values are taken verbatim from the standalone design system to match it.
+:root {
+  // surfaces
+  --pf-surface-page:   #ffffff;
+  --pf-surface-sunken: #F8F9FA;
+
+  // text
+  --pf-text-heading:   #212529;
+  --pf-text-headline:  #343A40;
+  --pf-text-body:      #666260;
+  --pf-text-muted:     #6F777F;
+
+  // borders
+  --pf-border:         #DEE2E6;
+  --pf-border-strong:  #ADB5BD;
+
+  // type
+  --pf-font-display:   'Fraunces', Georgia, 'Times New Roman', serif;
+  --pf-font-body:      'Commissioner', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --pf-fw-light:       300;
+  --pf-fw-semibold:    600;
+
+  // scale (mirrors tachyons f1–f7)
+  --pf-fs-f1: 3rem;
+  --pf-fs-f2: 2.25rem;
+  --pf-fs-f3: 1.5rem;
+  --pf-fs-f4: 1.25rem;
+  --pf-fs-f5: 1rem;
+  --pf-fs-f6: 0.875rem;
+  --pf-fs-f7: 0.75rem;
+
+  // spacing
+  --pf-space-2: 0.5rem;
+  --pf-space-3: 1rem;
+  --pf-space-4: 2rem;
+  --pf-space-5: 4rem;
+
+  // motion
+  --pf-ease:     cubic-bezier(0.4, 0, 0.2, 1);
+  --pf-dur-nav:  0.5s;
+  --pf-dur-fade: 0.3s;
+
+  // layout
+  --pf-content-max: 75rem;
+  --pf-page-pad:    4rem;
+}
+
+// ── Page scaffold ─────────────────────────────────────────────────────────────
+.pf-page {
+  background: var(--pf-surface-page);
+}
+
+.pf-inner {
+  max-width: var(--pf-content-max);
+  margin: 0 auto;
+  padding: 0 var(--pf-page-pad) var(--pf-space-5);
+}
+
+// ── Intro ─────────────────────────────────────────────────────────────────────
+.pf-intro {
+  padding: var(--pf-space-4) 0 var(--pf-space-2);
+  max-width: 36rem;
+
+  h1 {
+    font-family: var(--pf-font-display);
+    font-size: var(--pf-fs-f1);
+    font-weight: var(--pf-fw-light);
+    color: var(--pf-text-heading);
+    line-height: 1.25;
+    margin: 0 0 var(--pf-space-3);
+  }
+
+  p {
+    font-family: var(--pf-font-body);
+    font-size: var(--pf-fs-f4);
+    font-weight: var(--pf-fw-light);
+    color: var(--pf-text-body);
+    line-height: 1.6;
+    margin: 0;
+
+    em {
+      font-family: var(--pf-font-display);
+      font-style: italic;
+    }
+  }
+}
+
+// ── Banners ───────────────────────────────────────────────────────────────────
+.pf-banners {
+  margin-top: var(--pf-space-5);
+}
+
+.pf-banner {
+  display: grid;
+  grid-template-columns: 5rem 1fr auto;
+  gap: var(--pf-space-4);
+  align-items: center;
+  padding: var(--pf-space-4);
+  border-top: 1px solid var(--pf-border);
+  text-decoration: none;
+  color: inherit;
+  transition: background var(--pf-dur-fade) var(--pf-ease);
+
+  &:last-of-type {
+    border-bottom: 1px solid var(--pf-border);
+  }
+
+  &:hover {
+    background: var(--pf-surface-sunken);
+  }
+}
+
+.pf-num {
+  font-family: var(--pf-font-display);
+  font-weight: var(--pf-fw-light);
+  font-size: var(--pf-fs-f1);
+  color: var(--pf-border-strong);
+  line-height: 1;
+  transition: color var(--pf-dur-fade) var(--pf-ease);
+
+  .pf-banner:hover & {
+    color: var(--pf-text-heading);
+  }
+}
+
+.pf-eyebrow {
+  display: block;
+  font-family: var(--pf-font-body);
+  font-size: var(--pf-fs-f7);
+  font-weight: var(--pf-fw-semibold);
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  color: var(--pf-text-muted);
+  margin-bottom: var(--pf-space-2);
+}
+
+.pf-title {
+  font-family: var(--pf-font-display);
+  font-size: var(--pf-fs-f2);
+  font-weight: var(--pf-fw-light);
+  color: var(--pf-text-headline);
+  line-height: 1.25;
+  margin: 0 0 var(--pf-space-2);
+  transition: color var(--pf-dur-fade) var(--pf-ease);
+
+  .pf-banner:hover & {
+    color: var(--pf-text-heading);
+  }
+}
+
+.pf-desc {
+  font-family: var(--pf-font-body);
+  font-size: var(--pf-fs-f5);
+  font-weight: var(--pf-fw-light);
+  color: var(--pf-text-body);
+  line-height: 1.6;
+  margin: 0;
+  max-width: 40em;
+}
+
+.pf-go {
+  font-family: var(--pf-font-body);
+  font-size: var(--pf-fs-f6);
+  font-weight: var(--pf-fw-semibold);
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  color: var(--pf-text-heading);
+  white-space: nowrap;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+// ── Atlas ─────────────────────────────────────────────────────────────────────
+.pf-atlas {
+  margin-top: var(--pf-space-5);
+}
+
+.pf-atlas-head {
+  max-width: 38rem;
+  margin-bottom: var(--pf-space-4);
+
+  h2 {
+    font-family: var(--pf-font-display);
+    font-size: var(--pf-fs-f2);
+    font-weight: var(--pf-fw-light);
+    color: var(--pf-text-heading);
+    line-height: 1.25;
+    margin: 0 0 var(--pf-space-3);
+  }
+
+  p {
+    font-family: var(--pf-font-body);
+    font-weight: var(--pf-fw-light);
+    color: var(--pf-text-body);
+    line-height: 1.6;
+    margin: 0;
+  }
+}
+
+.pf-atlas-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  li:last-child .pf-atlas-row {
+    border-bottom: 1px solid var(--pf-border);
+  }
+}
+
+.pf-atlas-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: var(--pf-space-3);
+  flex-wrap: wrap;
+  padding: var(--pf-space-3) 0;
+  border-top: 1px solid var(--pf-border);
+
+  a {
+    font-family: var(--pf-font-display);
+    font-size: var(--pf-fs-f3);
+    font-weight: var(--pf-fw-light);
+    color: var(--pf-text-headline);
+    text-decoration: none;
+    transition: color var(--pf-dur-fade) var(--pf-ease);
+
+    &:hover {
+      color: var(--pf-text-heading);
+    }
+  }
+}
+
+.pf-coming {
+  font-family: var(--pf-font-display);
+  font-size: var(--pf-fs-f3);
+  font-weight: var(--pf-fw-light);
+  color: var(--pf-text-muted);
+}
+
+.pf-meta {
+  font-family: var(--pf-font-body);
+  font-size: var(--pf-fs-f6);
+  font-weight: var(--pf-fw-semibold);
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  color: var(--pf-text-heading);
+  white-space: nowrap;
+}
+
+.pf-badge {
+  font-family: var(--pf-font-body);
+  font-size: var(--pf-fs-f7);
+  font-weight: var(--pf-fw-semibold);
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  color: var(--pf-text-muted);
+  border: 1px solid var(--pf-border);
+  padding: 0.25rem 0.6rem;
+  border-radius: 9999px;
+}
+
+// ── Arrow transition ──────────────────────────────────────────────────────────
+.pf-arrow {
+  display: inline-block;
+  transition: transform var(--pf-dur-fade) var(--pf-ease);
+}
+
+.pf-banner:hover .pf-arrow,
+.pf-atlas-row a:hover ~ .pf-meta .pf-arrow {
+  transform: translateX(5px);
+}
+
+// ── Responsive ────────────────────────────────────────────────────────────────
+@media screen and (max-width: 768px) {
+  .pf-inner {
+    padding: 0 var(--pf-space-3) var(--pf-space-4);
+  }
+
+  .pf-banner {
+    grid-template-columns: 1fr;
+    gap: var(--pf-space-2);
+    padding: var(--pf-space-3) 0;
+  }
+
+  .pf-num {
+    font-size: var(--pf-fs-f3);
+  }
+
+  .pf-go {
+    justify-self: start;
+  }
+}
