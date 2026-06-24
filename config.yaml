@@ -114,7 +114,7 @@ menu:
       weight: 1
     - name: from where does it stem?
       title: blog
-      url: /fromwheredoesitstem/
+      url: https://fwdis.org
       weight: 2
 #    - name: projects
 #      title: projects
