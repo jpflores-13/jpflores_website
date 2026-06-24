@@ -1,5 +1,5 @@
 ---
-title: "jp flores, phd"
+title: "JP Flores, PhD"
 subtitle: "fulbright scholar in milan, italy 🇮🇹| hhmi gilliam postdoc @ case western reserve university"
 description: ""
 images:
