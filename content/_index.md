@@ -3,7 +3,7 @@ title: "jp flores, phd"
 subtitle: "fulbright scholar in milan, italy 🇮🇹| hhmi gilliam postdoc @ case western reserve university"
 description: ""
 images:
-  - img/avatar.jpg
+  - img/headshot-film.jpg
 image_left: false
 text_align_left: false
 show_social_links: true # specify social accounts in site config
