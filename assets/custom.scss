@@ -60,19 +60,20 @@
 
 // ── Masonry grid ──────────────────────────────────────────────────────────────
 .fp-gallery {
-  columns: 3;
-  column-gap: var(--pf-space-3);
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: var(--pf-space-3);
   margin-top: var(--pf-space-5);
 
-  @media (max-width: 900px) { columns: 2; }
-  @media (max-width: 560px) { columns: 1; }
+  @media (max-width: 900px) { grid-template-columns: repeat(2, 1fr); }
+  @media (max-width: 560px) { grid-template-columns: 1fr; }
 }
 
 .fp-shot {
   display: block;
   width: 100%;
-  margin: 0 0 var(--pf-space-3);
-  break-inside: avoid;
+  aspect-ratio: 3 / 2;
+  overflow: hidden;
   border: 1px solid var(--pf-border);
   background: var(--pf-surface-sunken);
   cursor: zoom-in;
@@ -83,8 +84,9 @@
 
   img {
     width: 100%;
-    height: auto;
+    height: 100%;
     display: block;
+    object-fit: cover;
   }
 
   &:hover {
