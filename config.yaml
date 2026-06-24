@@ -112,10 +112,14 @@ menu:
       title: about
       url: /about/
       weight: 1
-    - name: projects & fun
-      title: projects & fun
+    - name: work
+      title: work
       url: /projects-and-fun/
       weight: 2
+    - name: 35mm
+      title: 35mm
+      url: /film-photos/
+      weight: 3
 #    - name: projects
 #      title: projects
 #      url: /project/
