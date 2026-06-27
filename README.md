@@ -34,7 +34,8 @@ hugo server
 ```
 content/          # Site content (Markdown / R Markdown)
   about/          # About page
-  fromwheredoesitstem/  # Blog posts
+  fromwheredoesitstem/  # Podcast episodes
+  marginalia/     # Long-form writing/journal
   project/        # Projects
 layouts/          # Custom Hugo layout overrides
 assets/           # SCSS and other assets
@@ -42,6 +43,22 @@ data/             # Structured data files
 static/           # Static files (images, PDFs, etc.)
 config.yaml       # Main Hugo configuration
 netlify.toml      # Netlify build settings
+```
+
+## Adding a marginalia entry
+
+1. Duplicate `content/marginalia/_entry-template/` and rename the folder to your entry's URL slug (e.g. `on-mentorship`).
+2. Edit the `index.md` inside:
+   - Set `title`, `date`, `excerpt`, and `lead`.
+   - Set `draft: false` when ready to publish.
+   - Write your entry using `##` headings for sections — the left-margin spine on the reading page builds from these automatically.
+3. Optional: drop a `featured.jpg` (200×200) in the folder and add `featured: featured.jpg` to the front matter to show a thumbnail on the index.
+4. Commit and push — Netlify deploys automatically.
+
+```sh
+git add content/marginalia/your-entry-slug/
+git commit -m "Add marginalia entry: your entry title"
+git push
 ```
 
 ## Deployment
