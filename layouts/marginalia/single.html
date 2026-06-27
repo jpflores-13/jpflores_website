@@ -1,0 +1,69 @@
+{{ define "main" }}
+{{ $horizons := .Params.horizons }}
+<main class="page-main pa4 marg-single" role="main">
+  <article class="marg-wrap center">
+
+    <header class="marg-entry-head">
+      <div class="marg-eyebrow">Marginalia &middot; {{ .Date.Format "January 2006" }}</div>
+      <h1>{{ .Title }}</h1>
+      {{ with .Params.lead }}<p class="marg-lead">{{ . }}</p>{{ end }}
+    </header>
+
+    <div class="marg-grid">
+
+      {{/* The living margin: numbered (front-matter horizons) or auto (H2 headings). */}}
+      <nav class="marg-spine" aria-label="Sections">
+        {{ if $horizons }}
+          {{ range $horizons }}
+            <a class="marg-h" href="#{{ .anchor }}" data-target="{{ .anchor }}">
+              <span class="marg-dot" aria-hidden="true"></span>
+              <span class="marg-num">{{ .num }}</span>
+              {{ with .label }}<span class="marg-label">{{ . }}</span>{{ end }}
+            </a>
+          {{ end }}
+        {{ else }}
+          {{ range .Fragments.Headings }}{{ if eq .Level 2 }}
+            <a class="marg-h marg-h--text" href="#{{ .ID }}" data-target="{{ .ID }}">
+              <span class="marg-dot" aria-hidden="true"></span>
+              <span class="marg-label-only">{{ .Title }}</span>
+            </a>
+          {{ end }}{{ end }}
+        {{ end }}
+      </nav>
+
+      <div class="marg-article">
+        {{ .Content }}
+      </div>
+
+    </div>
+  </article>
+</main>
+
+<script>
+/* Scroll-spy for the margin spine. Highlights the section nearest the top
+   as the reader scrolls. Avoids scrollIntoView; clicking is a native anchor. */
+(function () {
+  var links = Array.prototype.slice.call(document.querySelectorAll('.marg-spine .marg-h'));
+  if (!links.length) return;
+  var targets = links
+    .map(function (l) { return document.getElementById(l.getAttribute('data-target')); })
+    .filter(Boolean);
+  if (!targets.length) return;
+
+  function setActive(id) {
+    links.forEach(function (l) {
+      l.classList.toggle('is-active', l.getAttribute('data-target') === id);
+    });
+  }
+
+  var io = new IntersectionObserver(function (entries) {
+    entries.forEach(function (e) {
+      if (e.isIntersecting) setActive(e.target.id);
+    });
+  }, { rootMargin: '0px 0px -75% 0px', threshold: 0 });
+
+  targets.forEach(function (t) { io.observe(t); });
+  setActive(targets[0].id);
+})();
+</script>
+{{ end }}

@@ -1,0 +1,27 @@
+{{ define "main" }}
+<main class="page-main pa4 marg-index" role="main">
+  <section class="mw7 center">
+
+    <header class="marg-head">
+      <h1>{{ .Title }}</h1>
+      {{ with .Params.description }}<p class="marg-dek">{{ . | markdownify }}</p>{{ end }}
+    </header>
+
+    {{ range (where .RegularPagesRecursive "Type" "marginalia").ByDate.Reverse }}
+      <a class="marg-row{{ if .Params.featured }} has-thumb{{ end }}" href="{{ .RelPermalink }}">
+        <div class="marg-row-body">
+          <div class="marg-date">{{ .Date.Format "January 2006" }}</div>
+          <h2 class="marg-title">{{ .Title }}</h2>
+          {{ with (.Params.excerpt | default .Summary) }}
+            <p class="marg-excerpt">{{ . | plainify }}</p>
+          {{ end }}
+        </div>
+        {{ with .Params.featured }}
+          <div class="marg-thumb"><img src="{{ . }}" alt="" loading="lazy"></div>
+        {{ end }}
+      </a>
+    {{ end }}
+
+  </section>
+</main>
+{{ end }}
