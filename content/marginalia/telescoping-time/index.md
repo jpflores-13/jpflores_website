@@ -20,6 +20,9 @@ horizons:
   - num: "1"
     label: year
     anchor: 1-year-from-now
+  - num: "1"
+    label: week
+    anchor: this-week
 ---
 
 > "The end was contained in the beginning."
