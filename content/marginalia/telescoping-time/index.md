@@ -4,7 +4,7 @@ date: 2026-06-15
 author: "JP Flores"
 draft: false
 layout: single
-excerpt: "An exercise in legacy from my OpEd fellowship — looking at one life through four widening lenses, from one hundred years down to one year from now."
+excerpt: "An exercise in legacy from my [OpEd Project Fellowship](https://www.macfound.org/press/grantee-news/new-voices-shaping-narrative-of-technology-for-the-public-interest) — looking at one life through four widening lenses, from one hundred years down to one year from now."
 lead: "Rather than thinking about legacy as a single destination, I looked at my life through four increasingly distant lenses. Each horizon asks a different question."
 
 horizons:
@@ -164,3 +164,53 @@ If I end this year with fewer distractions, stronger relationships, healthier ha
 The forests I hope to see twenty-five and one hundred years from now won't begin with dramatic change.
 
 They'll begin with the quiet decision, made today, about what is worth planting—and what I must finally stop trying to carry.
+
+## This week
+
+### **Prompt**
+
+**This week.**
+
+That's the next seven days.
+
+What does it look like and feel like—*this week*—to be walking the path of your legacy?
+
+How do you know you are on it?
+
+**Write three specific ways you will recognize it.**
+
+*Note: This is **not** a to-do list. It is an experiment in consciousness.*
+
+---
+
+This week, nothing extraordinary has to happen.
+
+No paper needs to be accepted. No grant has to be funded. No organization has to reach a major milestone. The world doesn't need to notice anything different.
+
+Instead, I want to notice something different.
+
+I want to notice that I'm making decisions from the future I'm trying to build instead of reacting to the present I'm trying to escape.
+
+Walking the path of my legacy doesn't feel hurried. It feels intentional. It looks like spending time on work that compounds rather than work that merely accumulates. It looks like treating people with generosity, protecting time to think deeply, saying yes because something aligns with my purpose—not because I fear missing an opportunity.
+
+This week, I'll know I'm on that path if I recognize these three things:
+
+### 1. My attention matches my values.
+
+The way I spend my hours reflects the person I hope to become, not simply the demands placed in front of me. I spend more time creating than consuming. More time building than reacting. More time thinking deeply than switching constantly between tasks.
+
+### 2. My conversations leave people more hopeful than when they began.
+
+Whether I'm talking with a collaborator, a student, a friend, or a stranger, I create connection. I ask good questions. I listen carefully. I encourage more than I impress. People leave feeling more capable, more seen, or more curious than they did before we spoke.
+
+### 3. I make at least one decision that my future self would thank me for.
+
+Maybe no one else notices it. Maybe it's declining a commitment that doesn't serve my purpose. Maybe it's protecting a morning for writing. Maybe it's reaching out to someone I admire, taking a walk instead of checking email, or choosing rest over urgency. Whatever it is, it's a quiet vote for the life I'm trying to build.
+
+If I can recognize those moments this week, then I won't have to wonder whether I'm moving toward my legacy.
+
+I'll already be living it.
+
+Because legacies are not built one century at a time.
+
+They're built one ordinary week at a time.

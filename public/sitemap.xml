@@ -2,309 +2,317 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/categories/</loc>
+    <loc>//localhost:1314/</loc>
+    <lastmod>2026-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1314/marginalia/</loc>
+    <lastmod>2026-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1314/marginalia/telescoping-time/</loc>
+    <lastmod>2026-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1314/categories/</loc>
     <lastmod>2025-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/</loc>
     <lastmod>2025-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/graduate-student/</loc>
+    <loc>//localhost:1314/categories/graduate-student/</loc>
     <lastmod>2025-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode-60/</loc>
     <lastmod>2025-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode-60/</loc>
-    <lastmod>2025-03-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/fromwheredoesitstem/episode-59/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode-59/</loc>
     <lastmod>2025-03-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/science-communication/</loc>
+    <loc>//localhost:1314/categories/science-communication/</loc>
     <lastmod>2025-03-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode-58/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode-58/</loc>
     <lastmod>2025-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/science-journalism/</loc>
+    <loc>//localhost:1314/categories/science-journalism/</loc>
     <lastmod>2025-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/science-writing/</loc>
+    <loc>//localhost:1314/categories/science-writing/</loc>
     <lastmod>2025-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode57/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode57/</loc>
     <lastmod>2025-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/faculty/</loc>
+    <loc>//localhost:1314/categories/faculty/</loc>
     <lastmod>2025-01-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode56/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode56/</loc>
     <lastmod>2025-01-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode55/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode55/</loc>
     <lastmod>2025-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode54/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode54/</loc>
     <lastmod>2024-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode53/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode53/</loc>
     <lastmod>2024-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/grad-students/</loc>
+    <loc>//localhost:1314/categories/grad-students/</loc>
     <lastmod>2024-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode52/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode52/</loc>
     <lastmod>2024-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode51/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode51/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode50/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode50/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/science-editing/</loc>
+    <loc>//localhost:1314/categories/science-editing/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode49/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode49/</loc>
     <lastmod>2024-11-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/president/</loc>
+    <loc>//localhost:1314/categories/president/</loc>
     <lastmod>2024-11-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode48/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode48/</loc>
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/director/</loc>
+    <loc>//localhost:1314/categories/director/</loc>
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode47/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode47/</loc>
     <lastmod>2024-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode46/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode46/</loc>
     <lastmod>2024-10-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode45/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode45/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode44/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode44/</loc>
     <lastmod>2024-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/government/</loc>
+    <loc>//localhost:1314/categories/government/</loc>
     <lastmod>2024-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode43/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode43/</loc>
     <lastmod>2024-10-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/government-scientist/</loc>
+    <loc>//localhost:1314/categories/government-scientist/</loc>
     <lastmod>2024-10-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode41/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode41/</loc>
     <lastmod>2024-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode42/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode42/</loc>
     <lastmod>2024-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode40/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode40/</loc>
     <lastmod>2024-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/science-policy/</loc>
+    <loc>//localhost:1314/categories/science-policy/</loc>
     <lastmod>2024-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode38/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode38/</loc>
     <lastmod>2024-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode37/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode37/</loc>
     <lastmod>2024-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode36/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode36/</loc>
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode35/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode35/</loc>
     <lastmod>2024-04-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode34/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode34/</loc>
     <lastmod>2024-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode33/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode33/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode32/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode32/</loc>
     <lastmod>2024-03-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode31/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode31/</loc>
     <lastmod>2024-03-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/postdoc/</loc>
+    <loc>//localhost:1314/categories/postdoc/</loc>
     <lastmod>2024-03-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode30/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode30/</loc>
     <lastmod>2024-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode28/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode28/</loc>
     <lastmod>2024-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode29/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode29/</loc>
     <lastmod>2024-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/international/</loc>
+    <loc>//localhost:1314/categories/international/</loc>
     <lastmod>2024-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode27/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode27/</loc>
     <lastmod>2024-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/medical-doctor/</loc>
+    <loc>//localhost:1314/categories/medical-doctor/</loc>
     <lastmod>2024-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode26/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode26/</loc>
     <lastmod>2024-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode25/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode25/</loc>
     <lastmod>2024-01-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/patient/</loc>
+    <loc>//localhost:1314/categories/patient/</loc>
     <lastmod>2024-01-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/patient-advocate/</loc>
+    <loc>//localhost:1314/categories/patient-advocate/</loc>
     <lastmod>2024-01-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode24/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode24/</loc>
     <lastmod>2024-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode23/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode23/</loc>
     <lastmod>2024-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode22/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode22/</loc>
     <lastmod>2024-01-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/historian/</loc>
+    <loc>//localhost:1314/categories/historian/</loc>
     <lastmod>2024-01-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode21/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode21/</loc>
     <lastmod>2024-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/data-science/</loc>
+    <loc>//localhost:1314/categories/data-science/</loc>
     <lastmod>2022-09-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode20/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode20/</loc>
     <lastmod>2022-09-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/industry-scientist/</loc>
+    <loc>//localhost:1314/categories/industry-scientist/</loc>
     <lastmod>2022-09-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode17/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode17/</loc>
     <lastmod>2022-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode19/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode19/</loc>
     <lastmod>2022-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode18/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode18/</loc>
     <lastmod>2022-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode16/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode16/</loc>
     <lastmod>2022-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode15/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode15/</loc>
     <lastmod>2021-11-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode14/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode14/</loc>
     <lastmod>2021-09-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode13/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode13/</loc>
     <lastmod>2021-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode12/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode12/</loc>
     <lastmod>2021-07-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode11/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode11/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/industry/</loc>
+    <loc>//localhost:1314/categories/industry/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode10/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode10/</loc>
     <lastmod>2021-06-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode9/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode9/</loc>
     <lastmod>2021-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode8/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode8/</loc>
     <lastmod>2021-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode7/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode7/</loc>
     <lastmod>2021-05-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode6/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode6/</loc>
     <lastmod>2020-11-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode5/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode5/</loc>
     <lastmod>2020-11-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode4/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode4/</loc>
     <lastmod>2020-11-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/science-education/</loc>
+    <loc>//localhost:1314/categories/science-education/</loc>
     <lastmod>2020-11-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode3/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode3/</loc>
     <lastmod>2020-09-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/community-college/</loc>
+    <loc>//localhost:1314/categories/community-college/</loc>
     <lastmod>2020-09-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode39/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode39/</loc>
     <lastmod>2020-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode2/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode2/</loc>
     <lastmod>2020-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fromwheredoesitstem/episode1/</loc>
+    <loc>//localhost:1314/fromwheredoesitstem/episode1/</loc>
     <lastmod>2020-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/undergraduates/</loc>
+    <loc>//localhost:1314/categories/undergraduates/</loc>
     <lastmod>2020-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/hugo-site/</loc>
+    <loc>//localhost:1314/tags/hugo-site/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/</loc>
+    <loc>//localhost:1314/project/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/package/</loc>
+    <loc>//localhost:1314/categories/package/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/r/</loc>
+    <loc>//localhost:1314/categories/r/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/giraffes/</loc>
+    <loc>//localhost:1314/project/giraffes/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>//localhost:1314/tags/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/theme-features/</loc>
+    <loc>//localhost:1314/categories/theme-features/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/penguins/</loc>
+    <loc>//localhost:1314/project/penguins/</loc>
     <lastmod>2019-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/bakeoff/</loc>
+    <loc>//localhost:1314/project/bakeoff/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/contact/</loc>
+    <loc>//localhost:1314/contact/</loc>
     <lastmod>2019-02-25T13:38:41-06:00</lastmod>
   </url><url>
-    <loc>/form/</loc>
+    <loc>//localhost:1314/form/</loc>
     <lastmod>2019-02-25T13:38:41-06:00</lastmod>
   </url><url>
-    <loc>/elements/</loc>
+    <loc>//localhost:1314/elements/</loc>
     <lastmod>2019-02-18T12:27:33-06:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>//localhost:1314/35mm/</loc>
   </url><url>
-    <loc>/contributors/</loc>
+    <loc>//localhost:1314/contributors/</loc>
   </url><url>
-    <loc>/license/</loc>
+    <loc>//localhost:1314/license/</loc>
   </url><url>
-    <loc>/series/</loc>
+    <loc>//localhost:1314/series/</loc>
+  </url><url>
+    <loc>//localhost:1314/work/</loc>
   </url>
 </urlset>

@@ -1,0 +1,7 @@
+# ai.txt — AI training opt-out for jpflores.netlify.app
+# https://site-policy.pages.dev/ai-txt
+
+Allow: none
+
+Owner: JP Flores
+Contact: jflores@unc.edu
