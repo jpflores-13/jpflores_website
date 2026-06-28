@@ -4,7 +4,7 @@ date: 2026-06-15
 author: "JP Flores"
 draft: false
 layout: single
-excerpt: "An exercise in legacy from my [OpEd Project Fellowship](https://www.macfound.org/press/grantee-news/new-voices-shaping-narrative-of-technology-for-the-public-interest) — looking at one life through four widening lenses, from one hundred years down to one year from now."
+excerpt: "An exercise in Legacy from my OpEd Project Public Voices Fellowship — looking at one life through four widening lenses, from one hundred years down to one year from now."
 lead: "Rather than thinking about legacy as a single destination, I looked at my life through four increasingly distant lenses. Each horizon asks a different question."
 
 horizons:
@@ -28,13 +28,13 @@ horizons:
 > "The end was contained in the beginning."
 > — George Orwell
 
-Rather than thinking about legacy as a single destination, imagine looking at your life through four increasingly distant lenses. Each time horizon asks a different question. Together, they reveal not just what you hope to accomplish, but the world you hope to help create.
+Rather than thinking about Legacy as a single destination, imagine looking at your life through four increasingly distant lenses. Each time horizon asks a different question. Together, they reveal not just what you hope to accomplish, but the world you hope to help create.
 
 ## 100 years from now
 
 ### **Prompt**
 
-**What is your legacy, 100 years from now?**
+**What is your Legacy, 100 years from now?**
 
 For many of us, that strains the limits of imagination. Some of you might be thinking, *Why should we do that? What's the point?* And of course, there's no real reason—unless you're concerned with the future. George Orwell put it this way: *"The end was contained in the beginning."*
 
@@ -46,13 +46,13 @@ So again we ask:
 
 One hundred years from now, I don't hope people remember my name.
 
-History is full of people whose names have faded while their ideas quietly became part of everyday life. We don't know who planted every tree that shades our streets or who designed every public library, yet we live inside their legacy. I hope my work becomes like that—so embedded in the culture that it no longer needs to be traced back to a single person.
+History is full of people whose names have faded while their ideas quietly became part of everyday life. We don't know who planted every tree that shades our streets or who designed every public library, yet we live inside their Legacy. I hope my work becomes like that—so embedded in the culture that it no longer needs to be traced back to a single person.
 
 I hope science has become something people experience not only in laboratories or classrooms, but in the places where they already gather: neighborhoods, coffee shops, breweries, museums, parks, schools, libraries, and city halls. Scientists are no longer seen as distant experts but as neighbors, collaborators, artists, entrepreneurs, and civic leaders. Public engagement isn't an extra responsibility—it is simply part of what it means to practice science.
 
 I hope future generations inherit a scientific culture that values openness over exclusivity, collaboration over competition, curiosity over prestige, and public trust over institutional reputation. Scientific publishing has evolved into a system that emphasizes rigorous evaluation, thoughtful curation, and accessibility rather than gatekeeping. Knowledge moves freely because the purpose of science is understood to be serving society, not protecting institutions.
 
-More than anything, I hope people inherit systems that make connection easier. Connections between scientists and communities. Between disciplines. Between research and policy. Between discovery and everyday life. If there is a legacy I hope to leave, it is not a collection of accomplishments but a world where science feels more human, more welcoming, and more deeply woven into the fabric of society.
+More than anything, I hope people inherit systems that make connection easier. Connections between scientists and communities. Between disciplines. Between research and policy. Between discovery and everyday life. If there is a Legacy I hope to leave, it is not a collection of accomplishments but a world where science feels more human, more welcoming, and more deeply woven into the fabric of society.
 
 If one hundred years from now people naturally assume that science belongs everywhere, then perhaps they are living in a world my generation helped build.
 
@@ -60,13 +60,13 @@ If one hundred years from now people naturally assume that science belongs every
 
 ### **Prompt**
 
-**What is your legacy, 25 years from now?**
+**What is your Legacy, 25 years from now?**
 
 Picture this: a generation has passed. This is a world that is new, yet easier to imagine. Many of the people, the institutions, and the familiar patterns of the present still exist. We may still be alive, maybe not.
 
 Either way:
 
-> **What needs to be in place for your 100-year legacy to be on course? What structural, social, and cultural systems have been built? What proof exists that your legacy is already unfolding?**
+> **What needs to be in place for your 100-year Legacy to be on course? What structural, social, and cultural systems have been built? What proof exists that your Legacy is already unfolding?**
 
 ---
 
@@ -80,7 +80,7 @@ Within academia, graduate students are trained not only as researchers but also 
 
 Professionally, I hope my laboratory has become known for both scientific excellence and a culture of generosity. Former students have established their own labs, organizations, and initiatives, carrying forward values that emphasize collaboration, mentorship, and service alongside discovery.
 
-The greatest sign that my legacy is taking shape would not be seeing my own work expand. It would be watching ideas continue to grow without me. Organizations continue because others believe in them. Collaborations emerge without my introduction. Young scientists create programs I never imagined. The systems have developed enough momentum that they no longer require my constant involvement.
+The greatest sign that my Legacy is taking shape would not be seeing my own work expand. It would be watching ideas continue to grow without me. Organizations continue because others believe in them. Collaborations emerge without my introduction. Young scientists create programs I never imagined. The systems have developed enough momentum that they no longer require my constant involvement.
 
 That is what success looks like: not becoming indispensable, but becoming unnecessary.
 
@@ -94,7 +94,7 @@ Many of us will still be here, if we are lucky. We may be in the same houses, jo
 
 Now we are in a timeframe where we can become quite specific.
 
-> **What plans, people, policies, language, organizations, or landscapes are beginning to reveal your legacy? What evidence tells you that the future has already begun?**
+> **What plans, people, policies, language, organizations, or landscapes are beginning to reveal your Legacy? What evidence tells you that the future has already begun?**
 
 ---
 
@@ -112,7 +112,7 @@ Most importantly, I hope I have begun letting go.
 
 The first generation of students, collaborators, and organizational leaders I've mentored is beginning to exceed me. Projects no longer depend entirely on my energy. New initiatives emerge because others have adopted the same values and begun creating their own.
 
-Seven years from now, I don't expect my legacy to be complete.
+Seven years from now, I don't expect my Legacy to be complete.
 
 I simply hope the future has become visible.
 
@@ -136,7 +136,7 @@ But beyond the calendar:
 
 ---
 
-One year from now, very little of my legacy will be visible to anyone else.
+One year from now, very little of my Legacy will be visible to anyone else.
 
 And that's exactly as it should be.
 
@@ -176,7 +176,7 @@ They'll begin with the quiet decision, made today, about what is worth planting�
 
 That's the next seven days.
 
-What does it look like and feel like—*this week*—to be walking the path of your legacy?
+What does it look like and feel like—*this week*—to be walking the path of your Legacy?
 
 How do you know you are on it?
 
@@ -194,7 +194,7 @@ Instead, I want to notice something different.
 
 I want to notice that I'm making decisions from the future I'm trying to build instead of reacting to the present I'm trying to escape.
 
-Walking the path of my legacy doesn't feel hurried. It feels intentional. It looks like spending time on work that compounds rather than work that merely accumulates. It looks like treating people with generosity, protecting time to think deeply, saying yes because something aligns with my purpose—not because I fear missing an opportunity.
+Walking the path of my Legacy doesn't feel hurried. It feels intentional. It looks like spending time on work that compounds rather than work that merely accumulates. It looks like treating people with generosity, protecting time to think deeply, saying yes because something aligns with my purpose—not because I fear missing an opportunity.
 
 This week, I'll know I'm on that path if I recognize these three things:
 
@@ -210,7 +210,7 @@ Whether I'm talking with a collaborator, a student, a friend, or a stranger, I c
 
 Maybe no one else notices it. Maybe it's declining a commitment that doesn't serve my purpose. Maybe it's protecting a morning for writing. Maybe it's reaching out to someone I admire, taking a walk instead of checking email, or choosing rest over urgency. Whatever it is, it's a quiet vote for the life I'm trying to build.
 
-If I can recognize those moments this week, then I won't have to wonder whether I'm moving toward my legacy.
+If I can recognize those moments this week, then I won't have to wonder whether I'm moving toward my Legacy.
 
 I'll already be living it.
 
