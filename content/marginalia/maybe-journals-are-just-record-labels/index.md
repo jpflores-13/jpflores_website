@@ -3,7 +3,7 @@ title: Maybe Journals Are Just Record Labels
 date: 2026-06-28
 author: "JP Flores"
 draft: false
-excerpt: "A throwaway text to a musician friend spiraled into a comparison I can't shake."
+excerpt: "A throwaway text to a musician friend..."
 lead: "If the internet changed what record labels are for, maybe it's changing what journals are for, too."
 ---
 
@@ -60,3 +60,5 @@ I'm not sure that belongs in this analogy.
 Or maybe it's the beginning of a different one.
 
 Either way, I have a feeling I'll keep texting musicians.
+
+*(thanks, johnny sunrise)*
