@@ -22,12 +22,12 @@
             </a>
           {{ end }}
         {{ else }}
-          {{ range .Fragments.Headings }}{{ if eq .Level 2 }}
+          {{ range .Fragments.Headings }}
             <a class="marg-h marg-h--text" href="#{{ .ID }}" data-target="{{ .ID }}">
               <span class="marg-dot" aria-hidden="true"></span>
               <span class="marg-label-only">{{ .Title }}</span>
             </a>
-          {{ end }}{{ end }}
+          {{ end }}
         {{ end }}
       </nav>
 
