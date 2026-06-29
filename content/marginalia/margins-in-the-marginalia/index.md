@@ -1,6 +1,7 @@
 ---
 title: margins in the marginalia
 date: 2026-06-29
+author: "JP Flores"
 draft: false
 excerpt: "The patients at the edges of the distribution are carrying information about the system that the system doesn't know how to receive."
 lead: "On rare disease, diagnostic odysseys, and what happens when you mistake a feedback loop for a personal failing."
