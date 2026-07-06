@@ -2,7 +2,7 @@
 title: how not to be reviewer 2
 date: 2026-07-06
 author: "JP Flores"
-draft: true
+draft: false
 excerpt: "A field guide for anxious peer reviewers, borrowed shamelessly from people who've actually thought about this."
 lead: "Everything I wish someone had handed me before my first review — how to structure one, how not to be a jerk, and how to keep up with the literature without losing your evenings."
 ---
