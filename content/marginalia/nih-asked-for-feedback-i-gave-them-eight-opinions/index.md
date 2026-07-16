@@ -1,8 +1,8 @@
 ---
-title: nih asked for feedback. I gave them eight opinions.
+title: nih rfi & my eight opinions.
 date: 2026-07-16
 author: "JP Flores"
-draft: true
+draft: false
 excerpt: "My response to NIH's request for information on how it should measure and reward scientific impact — read: everything wrong with judging science by paper count."
 lead: "NIH opened an RFI asking how it should rethink scientific impact. I had opinions about reproducibility, open software, mentorship, and why preprints should count for something."
 ---
