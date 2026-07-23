@@ -23,7 +23,7 @@ intro: |
 
   🎶 Outside of science, you'll usually find me listening to music, exploring new cities, cheering on the Los Angeles Dodgers, or dreaming up new ways to immerse scientists in the communities they serve. My headphone fuel for all of the above:
 
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1246212565&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/1246212565?si=e4b417f50fbd48ff)
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1246212565&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 show_outro: true
 
