@@ -742,3 +742,114 @@ html { scroll-behavior: smooth; }
     grid-template-columns: 1fr;
   }
 }
+
+// ── Scholarship ───────────────────────────────────────────────────────────────
+.pf-scholarship {
+  margin-top: var(--pf-space-5);
+}
+
+.pf-scholarship-head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--pf-space-4);
+  flex-wrap: wrap;
+  margin-bottom: var(--pf-space-3);
+
+  > div {
+    max-width: 38rem;
+  }
+
+  h2 {
+    font-family: var(--pf-font-display);
+    font-size: var(--pf-fs-f2);
+    font-weight: var(--pf-fw-light);
+    color: var(--pf-text-heading);
+    line-height: 1.25;
+    margin: 0 0 var(--pf-space-2);
+  }
+
+  p {
+    font-family: var(--pf-font-body);
+    font-weight: var(--pf-fw-light);
+    color: var(--pf-text-body);
+    line-height: 1.6;
+    margin: 0;
+  }
+}
+
+.pf-scholar-group {
+  margin-top: var(--pf-space-4);
+
+  h3 {
+    font-family: var(--pf-font-body);
+    font-size: var(--pf-fs-f7);
+    font-weight: var(--pf-fw-semibold);
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    color: var(--pf-text-muted);
+    margin: 0;
+  }
+}
+
+.pf-scholar-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  li:last-child .pf-scholar-row {
+    border-bottom: 1px solid var(--pf-border);
+  }
+}
+
+.pf-scholar-row {
+  display: grid;
+  grid-template-columns: 3.25rem 1fr;
+  gap: var(--pf-space-3);
+  padding: var(--pf-space-3) 0;
+  border-top: 1px solid var(--pf-border);
+}
+
+.pf-scholar-year {
+  font-family: var(--pf-font-body);
+  font-size: var(--pf-fs-f7);
+  font-weight: var(--pf-fw-semibold);
+  color: var(--pf-text-muted);
+  letter-spacing: 0.03em;
+  padding-top: 0.2em;
+}
+
+.pf-scholar-body {
+  min-width: 0;
+}
+
+.pf-scholar-title-line {
+  display: flex;
+  align-items: baseline;
+  gap: 0.6rem;
+  flex-wrap: wrap;
+  margin-bottom: 0.3rem;
+}
+
+.pf-scholar-title {
+  font-family: var(--pf-font-display);
+  font-size: var(--pf-fs-f5);
+  font-weight: var(--pf-fw-light);
+  color: var(--pf-text-headline);
+  line-height: 1.45;
+  text-decoration: none;
+  transition: color var(--pf-dur-fade) var(--pf-ease);
+
+  &:hover {
+    color: var(--pf-text-heading);
+  }
+}
+
+.pf-scholar-venue {
+  display: block;
+  font-family: var(--pf-font-body);
+  font-size: var(--pf-fs-f6);
+  font-weight: var(--pf-fw-light);
+  color: var(--pf-text-muted);
+  line-height: 1.5;
+}

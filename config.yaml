@@ -46,8 +46,8 @@ params:
   orgName: RStudio
   sharing_image: /img/avatar.jpg
   social:
-    - icon: globe
-      icon_pack: fas
+    - icon: bluesky
+      icon_pack: fab
       url: https://bsky.app/profile/jpflores.rbind.io
     - icon: github
       icon_pack: fab
@@ -64,6 +64,9 @@ params:
     - icon: orcid
       icon_pack: ai
       url: http://orcid.org/0000-0001-5619-8990
+    - icon: google-scholar
+      icon_pack: ai
+      url: https://scholar.google.com/citations?user=YvUK98UAAAAJ&hl=en
     - icon: spotify
       icon_pack: fab
       url: https://podcasters.spotify.com/pod/show/fromwheredoesitstem
